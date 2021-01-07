@@ -1,0 +1,969 @@
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	___________________________________________________________________________________________________________
+	GD CHETNA		B-100 / Exploratory				T.Depth:4,030	P.Depth:4,004
+	R/M Start:25.09.2019		Drlg/Start:04.10.2019				Hermtest:	Wo/start:
+	__________________________________________________________________________________________________________________________________
+	25.09.2019:N/DOWN 13 5/8” BOP & C-SEC WELLHEAD. M/UP & R/I 9 5/8” CSG CUTTER BHA TO 157 M. CUT OF 9 5/8” CSG.@157M.P/O CSG CUTTING
+	ASSY. P/O & L/DOWN 9 5/8” CSG 11 JOINT & 2 CUT PCS. N/DOWN ‘B’ SECTION WELL HEAD. M/UP & R/I 13 3/8” CSG CUTTER BHA TO 152 M.
+	CUTTING OF 13 3/8” CSG @ 152M IS IN PROHRESS.
+	__________________________________________________________________________________________________________________________________
+	26.09.2019:CUT 13 3/8” CSG @ 152M. POOH 13 3/8” CSG CUTTING BHA TO SURFACE. L/DN 8 JOINTS AND 1 CUT PIECE OF13 3/8” CSG.
+	TROUBLESHOOT DRAW-WORKS COMMUNICATION ERROR. CONTD P/O 13 3/8” CSG. TOTAL L/DN 11 JOINT AND 2 CUT PIECE. N/DOWN A-SEC WELLHEAD.RIH
+	20” CSG. CUTING BHA 130M.CUT 20” CSG L/DOWN 20” CSG-8 JTS & 2 CUT PIECE. RIH OEDP TO 133 M .C/OUT SURFACE CMT PLUG JOB ASPER
+	PLAN.M/A TO R/I 30”CUTTER BHA IP
+	__________________________________________________________________________________________________________________________________
+	27.09.2019:M/UP 30” CSG CUTTING BHA & RIH TO 119 M. CUT 30” CONDUCTOR CSG . B/O & L/DN 30" CONDUCTOR,7 FULL &2 CUT PCS. L/DN EXCESS
+	TUBULERS FROM DERRICK. (8” DC-3 JTS, 61/2” DC-3 JTS & 5 ½” DP-18JTS).PREPARED RIG FOR SKIDDING.P/U SPIDER DECK,PREPARED TEXAS DECK
+	FOR SKIDDING OPERATIONS.PJSM,SKID IN CANTILEVER LAND CTU ON AFT DECK. SKID OUT CANTILEVER AND REMOVAL OF PLATFORM ACCESS LADDER IS
+	IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	28.09.2019:SKID OUT CANTILEVER. SECURE CONDUCTOR DECK. SKID IN CANTILIVER TO FINAL STOW POSITION. PREPARED FORJACKING
+	OPERATIONS.JACKED DN RIG. PERFORMED WATER TIGHT INTEGRITY TEST 10 M DRAFT-OK. JACK UP RIG TO 25 FT AIR GAP. CONNECTED FORWARD TOW
+	LEAD BOAT TRITON GRACE @ 2018 HRS & GS AHALYA CONNECTED TO PORT SIDE @ 2100 HRS.WAITING FOR FAVOURABLE WEATHER CONDITIONS TO JACK
+	DOWN.WIND-16-18 KTS,SWELL-1.5-2 M.
+	__________________________________________________________________________________________________________________________________
+	29.09.2019:WAITING FOR FAVOURABLE WEATHER CONDITIONS TO JACK DOWN.WEATHER CONDITION WIND-16-18 KTS,DIR-190º,SWELL-1.5 -2 M.AFTER
+	CONDUCIVE WEATHER,JACKED D/N 16 FT DRAFT,COMMENCED JETTING WITH 1050 GPM/750PSI CONFIRMED ALL LEGS FREE.PULL ALL LEGS OFF SEA
+	BED,RIG OFF LOCATION @ 0220 HRS. RIG ON TOW TO NEW LOCATION B-100.POSITION AT 0600 HRS:18°55.07'N,071°21.37'E,COURSE-303°.DIST
+	COVERED - 4.7NM
+	__________________________________________________________________________________________________________________________________
+	30.09.2019:RIG IS UNDER TOW TO NEW LOCATION B-100 SINCE 0220HRS DT. 30.09.2019. POSITION AT 0600 HRS :19° 41.46'N ,070°
+	52.65'E,COURSE-330°,PRESENT SPEED -1.5 KTS,AVG SPEED 2.1KTS,DIST COVERED-58.1NM DISTANCE TO GO:1.9NM, STEAMING HRS- 27.7, ETA-01ST
+	OCT 0712HRS.M/WHILE JACK DOWN LEGS TO SOFT PIN PRIOR TO FINAL POSTION IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	01.10.2019:RIG ON TOW TO NEW LOCATION B-100.RIG ARRIVED & POSITIONED AT LOCATION AT 13:45
+	HRS.LAT:19°42’37”N,LONG:070°51’04.2”E,RIG HEADING:246.8°,DISTANCE FROM RELEASED LOC:2.72M,BEARING 229.6°.RELEASED TOW BOAT
+	GREATSHIP AHALYA AT 15:00HRS.INITIAL LEG PENETRATION AT ZERO AIR GAP-STBD:9.2 FT,BOW:9.0 FT & PORT:9.5 FT.WAITED FOR SLACK TIDE TO
+	PRELOAD BOW LEG.J/DN HULL TO 2FT DRAFT.PRELOADING ON BOW LEG IP
+	__________________________________________________________________________________________________________________________________
+	02.10.2019:CONT HOLD 100% PRELOAD ON BOW LEG.OBSD NO SETTLEMENT.DUMPED PRELOAD ON BOW LEG & ADJUSTED 2 FT DRAFTFOR PRELOADING PORT
+	LEG. FILLED 100% PRELOAD TANKS ON PORT LEG.STATIC HOLD 100 % PRELOAD ON PORT LEG OBSD NO SETTLEMENT.DUMPED PRELOAD ON PORT LEG &
+	ADJUSTED 2 FT DRAFT FOR PRELOADING STB LEG.FILLED 100% PRELOAD ON STB LEG.OBSERVATION FOR FURTHER SETTLEMENT PRIOR TO HOLD 100%
+	PRELOAD ON STB LEG IP.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	__________________________________________________________________________________________________________________________________
+	03.10.2019:CONT HOLD 100% PRELOAD ON STBD LEG.OBSD NO SETTLEMENT.DUMPED PRELOAD.FINAL LEGS
+	PENETRATION:BOW-9.1FT,PORT-9.5FT,STBD-9.6FT.FINAL MOON POOL POSITION:LAT:19#42’37.7996”N,LONG: 070#51’04.4473”E,BEARING
+	55.4#(T),HEADING:247.03#.ROTORY IS 3.44M AWAY FROM RELEASED LOCATION. JACK UP RIG TO 50 FT AIR GAP. SKD OUT CANTILEVER.POSITIONED
+	& INSTALLED COND DECK &CTU.M/UP 07STDS OF 5 ½”DP.R/UP 30”CSG H/TOOL IP
+	__________________________________________________________________________________________________________________________________
+	04.10.2019:R/UP 30” CSG HANDLING EUIPMENTS. LOWERED 09 JTS OF 30”-X52-310 PPF- LEOPARD CONDUCTOR CSG UPTO 111M.R/UP PILE HAMMER.
+	M/UP DRIVE SUB WITH 30” CONDUCTOR CSG & LOWERED 30” CSG FROM 111M TO 118 M.  PILED DN 30” CSG FROM 118M TO 150M (POINT OF REFUSAL
+	@240 BPF). WELDED SUPPORT PADS ON 30" CONDUCTOR. CUT 30”CONDUCTOR & L/DN 2 JTS & 1 CUT PIECE OF 30”CSG. INSTALLATION OF DIVERTER
+	STARTER FLANGE IS IP.
+	__________________________________________________________________________________________________________________________________
+	05.10.2019:CONTD INSTALLATION & WELDING OF DIVERTER STARTER FLANGE ON 30”CONDUCTOR.N/UP & TIGHTENED 29 ½”DIVERTER.N/UP DIVERTER
+	OVERBOARD VALVES AND LINES.FUNCTION TESTED DIVERTER.OK.M/UP & R/BACK 03 STDS OF  5 ½” HWDP.M/UP & RIH 17 ½”PILOT HOLE DRILLING
+	ASSLY UPTO 112 M @ SEA BED. SPUD THE WELL @ 0030HR D/DN 17 ½”PILOT HOLE FROM 112M TO 205 M.PUMPED HI-VIS EVERY STAND.FDIP.
+	__________________________________________________________________________________________________________________________________
+	06.10.2019:CONT DRLG & D/DN 17-1/2"PILOT HOLE FROM 205M TO 500M (PHASE TD).PUMPED HI-VIS EVERY STAND DURINGDRLG. C&C MUD PRIOR TO
+	POOH 17 ½”PILOT HOLE DRLG ASSLY IS IP.
+	__________________________________________________________________________________________________________________________________
+	07.10.2019:POOH 17 ½”PILOT HOLE DRLG ASSLY ON 5 ½”DP F/500M TO SURFACE. OBSD TIGHT SPOTS AT SEVERAL POINTS F/398M TO 177M. CLEARED
+	THE SAME.M/UP & RIH 26” HOLE OPENER ASSLY UPTO 97M. SLIP AND CUT 105 FT DRILL LINE. RIH 26” HOLE OPENER ASSLY F/97M TO 112M.
+	CLEARED 30”CONDUCTOR WITH 26”HOLE OPENER F/112M TO 150M & ENLARGED 17-1/2”PILOT HOLE TO 26” F/150M  TO 296M.FURTHER HOLE
+	ENLARGEMENT IS IP.
+	__________________________________________________________________________________________________________________________________
+	08.10.2019:CONT ENLARGED 17-1/2”PILOT HOLE TO 26” FROM 296M  TO 491M. PUMPED HI-VIS EVERY STD. FURTHER HOLEENLARGEMENT IS IN
+	PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	09.10.2019:CONT ENLARGED 17-1/2”PILOT HOLE TO 26” F/491M  TO 500M.C&C MUD.POOH 26” HOLE OPENER ASSLY ON 5 ½”DPF/500M TO
+	SURFACE.CLEANED BALLED UP 26”STAB & H/O.RIH 26”H/O ASSY UPTO 500M.OBSD NO H/UP.C&C MUD. SPOTTED 600 BBL FRESH GEL MUD IN OPEN
+	HOLE.DROPPED TOTCO.POOH 26” H/O ASSY F/500M TO SURFACE.OBSD NO T/PULL.TOTCO READ-1°.M/UP & R/BACK 5 STDS OF 5 ½” DP FOR STINGER
+	RUN.R/UP 20"CSG HANDLING TOOLS IP.
+	__________________________________________________________________________________________________________________________________
+	10.10.2019:M/A & LOWERED 40JTS OF 20”-X56-133PPF CSG UPTO 500M.20”F/S @500M & F/C @474M.C&C MUD.LOWERED STINGERON 5 ½” DP & STAB-IN
+	TO F/C.LOWERED 20”X30”ANN WASH PIPE TO 115 M.PUMPED 50 BBLS OF D/W,200BBLS LEAD CMT SLURRY OF 12.6 PPG & 161BBLS TAIL SLURRY OF 15
+	PPG.DISPLACED WITH 34BBLS MUD.CHECKED NRV-OK.POOH STINGER F/474M TO 415M.DIRECT WASHED STRING.WASHED 30”X20”ANN.POOH STINGER F/415M
+	TO 320M.F/POOH IP.
+	__________________________________________________________________________________________________________________________________
+	11.10.2019:POOH STINGER ASSY F/320M TO SURFACE .POOH  2 3/8”ANN WASH PIPE (TBG) FROM 115M TO SURFACE. OBSDSURFACE CMT SAMPLE HARD.
+	OPENED STUDS OF DIVERTER STARTER FLANGE & P/UP DIVERTER. ROUGH CUT 20” CSG. B/O & L/DN 01 JT & 01 CUT PIECE OF 20” CSG.N/DN 29
+	½”DIVERTER.CUT 30” CSG & L/DN WITH STARTER FLANGE INSTALLED & WELDED 20 ¾” 3 M “A”-SEC WELL HEAD.TESTED W/H @500 PSI.OK. N/UP 20 ¾”
+	BOP STACK IS IP.
+	__________________________________________________________________________________________________________________________________
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	12.10.2019:CONTD N/UP & TIGHTENED 20 ¾”BOP STACK,HCR VALVES,CHOKE & KILL HOSES,OUTER-INNER BARRELS & BOP CONTRLINES.FUNCTION TESTED
+	BOP STACK.OK.M/UP & LOWERED 20 ¾”TEST PLUG ASSLY.PR TESTED ANN BOP @300PSI 1500PSI & DOUBLE RAM BOP,HCR VALVES,MANNUAL VALVES,FOSV
+	& I-BOP @300 & 2000 PSI.OK.M/UP, FLUSHED &  RACK BACK 39 STDS BY P/UP 117 JTS OF 5 ½”DP SINGLE BY SINGLE.P/UP & M/UP 17 ½”RR PDC
+	BIT IS IP.
+	__________________________________________________________________________________________________________________________________
+	13.10.2019:CONTD M/UP & RIH 17 ½” DRLG ASSLY ON 5 ½”DP UPTO 410M.WASHED DN FROM 410M & TAGGED CMT AT 473M. C&CMUD. C/O CIT @
+	500PSI. OK. DRILLED OUT F/C,CMT & F/SHOE UPTO 500.50M.C&C MUD.C/O SIT @ 12 PPG EMW.OK DRILLED FRESH FORMATION UP TO 504M.C&C
+	MUD.C/O PIT @ 13.08PPG EMW.OK. CHANGED OVER TO 9.3PPG SOBM. CLEANED SURFACE LINES & SHAKER.C&C MUD.RESUMED DRLG & D/DN 17 ½’ HOLE
+	F/504M TO 573M,FURTHER DRLG IP
+	__________________________________________________________________________________________________________________________________
+	14.10.2019:CONT DRILLING & D/DN 17 ½" HOLE FROM 573M TO 1114M.FURTHER DRILLING IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	15.10.2019:CONT DRILLING & D/DN 17 ½" HOLE FROM 1114 M TO 1655 M.FURTHER DRILLING IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	16.10.2019:CONT DRILLING & D/DN 17 ½" HOLE FROM 1655 M TO 1830 M (PHASE TD). C & C MUD PRIOR TO WIPER TRIP.FLOW CHECKED - WELL
+	STATIC. CARRIED OUT WIPER TRIP, P/O 17 ½” BIT UP TO 488 M (INSIDE 20” CSG SHOE). RIH FROM 488 M TO 1830 M (BOTTOM). WASHED DOWN
+	LAST STD. OBSVD NO T/P & H/UP. C & C MUD PRIOR TO P/O FOR WIRELINE LOGGING IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	17.10.2019:CONT C & C MUD PRIOR TO P/O FOR WIRE LINE LOGGING. FLOW CHECKED-OK, DROPED TOTCO, POOH FROM 1830M TOSURFACE B/O & L/DN
+	JAR, BIT.(TOTCO READING 1°). R/UP SCHL WIRELINE. M/UP PEX-AIT-HNGS TOOLSTRING. RECORDED MAIN PASS & REPEAT PASS FROM 1829.6 M TO
+	501M. POOH PEX-AIT-HNGS TOOLSTRING. M/UP & R/I DSI TOOL. RECORDED MAIN PASS FROM 1830M TO 1700M. FURTHER LOG RECORDING IS IP.
+	__________________________________________________________________________________________________________________________________
+	18.10.2019:CONTD RECORDED DSI-GR MAIN PASS AND REPEAT PASS LOG F/1830M TO 501M. POOH DSI-GR TOOL. M/UP 17 ½”BITWITH BHA AND R/I TO
+	1830M (BOTTOM), WASHED DOWN LAST STAND. C & C MUD. P/O 17-1/2" BIT WITH BHA FROM 1830M TO SURFACE. B/OFF AND L/DOWN JAR,STABILISER
+	& BIT. R/UP 13 3/8" CASING HANDLING EQUIPMENTS. RIH 13-3/8” CSG, SHOE TRACK WITH FLOAT COLLAR AT TWO JOINTS APART TO 36M.FURTHER
+	CSG LOWERING IS IP.
+	__________________________________________________________________________________________________________________________________
+	19.10.2019:CONTD LOWERING L-80 (08 JTS) /P110, 68PPF, BTC 13-3/8” CASING FROM 36M T0 494M. BREAK GEL AT 20’’CSGSHOE.CONTINUE
+	LOWERING CASING FROM 494M TO 1830M. TOTAL LOWERED – 160JTS. FILL UP CASING REGULARLY KEPT 13-3/8" SHOE @ 1830M, F/COLLAR @ 1805.5M.
+	C & C MUD PRIOR TO CEMENT JOB IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	20.10.2019:CONT. C & C MUD PRIOR TO CEMENT JOB. C/OUT 13-3/8"CSG CEMENTATION JOB AS PER PLAN. WOC. OBSD SURFACECMT SAMPLE HARD.M/A
+	& LIFTED 20 3/4” BOP STACK. SET 13 3/8" CASING SLIP. ROUGH CUT 13 3/8”CASING. N/DN BOP & L/DN 1 FULL JOINT + 1 CUT PC OF 13 3/8”
+	CSG. FINAL CUT & DRESSED 13 3/8” CASING STUMP. M/A TO N/UP B SECTION WELL HEAD IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	21.10.2019:FINAL DRESSED 13 3/8” CASING STUMP.N/UP ”B”-SECTION WELL HEAD.PRESSURE TESTED TO 1500PSI-OK.N/UP13 5/8’’ BOP STACK, N/UP
+	OUTER AND INNER BARREL. R/I BOP TEST PLUG ASSY.TESTED BOP TO 300PSI/10000 PSI(LPR, VBR, UPR,C & K MANUAL & HCR VALVE, C&K
+	LINE,FOSV, L/IBOP, U/IBOP, SBR) ANN. AT 300/7000PSI RIH 114 5-1/2"DP SGLS BY SGLS AND MAKE STDS (DRIFTED EVERY JOINTS), P/O & RACK
+	BACK IS IP.
+	__________________________________________________________________________________________________________________________________
+	22.10.2019:P/O & RACK BACK 38STDS. R/I WITH 12 ¼" DRG BHA FROM SURFACE TO 30M. SURFACE TESTED PBL SUB-OK.CONTDR/I F/30M TO 1803M.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	TAGGED F/COLLAR AT 1803M. C & C MUD, REDUCED MUD WT. F/10.5PPG TO 9.2PPG. C/ OUT CIT AT 1500 PSI -OK. DRILLED FLOAT COLLAR, SHOE
+	TRACK CEMENT AND SHOE F/1803M TO 1830.50M.C & C MUD. C/OUT SIT @ 874 PSI-OK.(EMW-12 PPG).DRILLED FRESH FORMATION TO 1833M. C & C
+	MUD IS IP PRIOR TO LOT.
+	__________________________________________________________________________________________________________________________________
+	23.10.2019:C&C PRIOR TO LOT. PERFORMED LOT AT 1380 PSI SURFACE PRESSURE WITH 9.2 PPG MUD.(EMW:13.6 PPG). TOTALVOL PUMPED 6.5
+	BBLS,TOTAL VOL RETURNED 6 BBL. R/DN TEST ASSY. C/OUT FINGER PRINTING PRIOR TO FURTHER DRILLING. RESUME DRILLING. D/DN 12 ¼’’ HOLE
+	FROM 1833M TO 2028M. FDIP.
+	__________________________________________________________________________________________________________________________________
+	24.10.2019:CONTD 12-1/4"DRILLING.D/DN FROM 2028M TO 2191M.CIRCULATED FOR B/UP SAMPLE. CONTD. D/DN TO 2219M.AGAIN CIRCULATED FOR
+	B/UP SAMPLE. CONTD DRILLING, D/DOWN TO 2280M. FURTHER DRILLING IS IP.
+	__________________________________________________________________________________________________________________________________
+	25.10.2019:CONTD 12-1/4" HOLE DRILLING. D/DN FROM 2280M TO 2384M. CIRCULATED FOR B/UP SAMPLE ANALYSIS.CONTD DRILLING, D/DOWN FROM
+	2384M TO 2476M. FURTHER DRILLING IS IP.
+	__________________________________________________________________________________________________________________________________
+	26.10.2019:CONTD 12-1/4" HOLE DRILLING. D/DN FROM 2476M TO 2644M. FURTHER DRILLING IS IS PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	27.10.2019:CONTD 12-1/4" HOLE DRILLING. D/DN FROM 2644M TO 2786M. FURTHER DRILLING IS IS PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	28.10.2019:CONTD 12-1/4" HOLE DRILLING. D/DN FROM 2786M TO 2932M. FURTHER DRILLING IS IS PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	29.10.2019:CONT DRILLING & D/DN 12¼” HOLE FROM 2932M TO 3023M. FDIP.
+	__________________________________________________________________________________________________________________________________
+	30.10.2019:CONT DRILLING & D/DN 12-1/4”HOLE FROM 3023M TO 3093M.C&C MUD.FLOW CHECKED.OBSD WELL STATIC. POOH12 ¼” DRLG ASSLY ON 5
+	½”DP PRIOR TO RIH LWD ASSLY IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	31.10.2019:POOH 12 ¼” DRLG ASSLY ON 5 ½’’ DP F/3093M TO SURFACE.B/O AND L/DN DRLG JAR, PBL SUB, 12 ¼” STABLIZER& BIT. R/UP SCHL LWD
+	PR SENSORS & D/W SENSOR.M/UP 12 1/4" (RR) PDC BIT WITH SCHL LWD BHA & RIH TO 34 M. LOADED RA SOURCE. RIH 12 ¼” BIT WITH SCHL LWD
+	BHA FROM 34M TO 239 M. SHALLOW TESTED LWD.OK. RIH 12 ¼”LWD ASSY ON 5 ½”DP F/239M TO 1820M.ESTABLISHED MUD CIRC.M/A TO RECORD LWD
+	LOGS FROM 1820M IS IP
+	__________________________________________________________________________________________________________________________________
+	01.11.2019:CONT RECORDING OF SCHL LWD LOGS FROM 1820M TO 2371M BY RIH LWD WITH 12 ¼”DRLG ASSLY ON 5 ½”DP ATCONTROLLED SPEED OF 30
+	M/HR WITH 655 GPM-1300PSI & 60 RPM. FURTHER RECORDING OF LWD LOGS IS IP.
+	__________________________________________________________________________________________________________________________________
+	02.11.2019:CONT RECORDING OF SCHL LWD LOGS FROM 2371M TO 2890M BY RIH LWD WITH 12 ¼”DRLG ASSLY ON 5 ½”DP ATCONTROLLED SPEED OF 30
+	M/HR WITH 655 GPM-1300PSI & 60 RPM. FURTHER RECORDING OF LWD LOGS IS IP.
+	__________________________________________________________________________________________________________________________________
+	03.11.2019:CONT RECORDING OF SCHL LWD LOGS BY RIH LWD WITH 12 ¼” DRLG ASSLY ON 5 ½” DP FROM 2890M TO BOTTOM @3093M AT CONTROLLED
+	SPEED WITH 660 GPM-1450 PSI & 60 RPM. C & C MUD. RESUMED DRLG & D/DN 12-1/4"HOLE WITH SCHL LWD ASSY FROM 3093M TO 3127M. FURTHER
+	DRLG IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	04.11.2019:CONT DRLG & D/DN 12 ¼” HOLE WITH SCHL LWD ASSY FROM 3127M TO 3226M.FDIP.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	__________________________________________________________________________________________________________________________________
+	05.11.2019:CONT DRLG & D/DN 12-1/4"HOLE WITH SCHL LWD ASSY FROM 3226M TO 3322 M. REAMED & TOOK LWD SURVEY EVERYSTD DOWN.FDIP.
+	__________________________________________________________________________________________________________________________________
+	06.11.2019:CONT DRLG & D/DN 12-1/4"HOLE WITH SCHL LWD ASSY FROM 3322M TO 3400 M. REAMED & TOOK LWD SURVEY EVERYSTD DOWN. CIRCULATED
+	FOR BTMS UP SAMPLE (LIME ST). D/DN 12-1/4" HOLE WITH SCHL LWD ASSY F/3400M TO 3412 M. MUD CIRCULATION FOR BTM UP SAMPLE IS IP.
+	__________________________________________________________________________________________________________________________________
+	07.11.2019:CONTD MUD CIRC FOR BTM UP SAMPLE (LIME ST).D/DN 12 ¼”HOLE WITH SCHL LWD ASSY F/3412M TO 3417M.CIRCULATED FOR BTM UP
+	SAMPLE (LIME ST).D/DN 12 ¼”HOLE F/3417M TO 3420M.CIRCULATED FOR BTM UP SAMPLE (LIME ST).STOPPED FURTHER DRLG DUE TO INSUFFICIENT
+	BARYTE STOCK(61MT) & CYCLONIC  WEATHER.C&C MUD. POOH 12 ¼” DRLG ASSY ON 5 ½” DP F/3420M TO 1815M.WOW FOR OSV TO DELIVER BARYTE,SOBM
+	& MUD CHEMICALS.
+	__________________________________________________________________________________________________________________________________
+	08.11.2019:CONTD WOW FOR OSV TO DELIVER BARYTE.OSV CELESTIAL APPROACHED ALONG SIDE @ 7:30HR & DELIVERED BARYTE.RIH 12 ¼” SCHL LWD
+	DRLG ASSLY ON 5 ½” DP F/1815M TO BOTTOM @3420M.RESUMED DRLG & D/DN 12 ¼” HOLE F/ 3420M TO 3425M (PHASE TD).CIRCULATED FOR BTM UP AT
+	3422M & 3425M DURING DRLG.C&C MUD.POOH 12 ¼”SCHL LWD ASSY ON 5 ½”DP STDS F/3425M TO 650M.OBSD NO T/PULL. FURTHER POOH PRIOR TO
+	LOGGING IS IP.
+	__________________________________________________________________________________________________________________________________
+	09.11.2019:CONT POOH 12 ¼”SCHL LWD ASSY ON 5 ½”DP F/ 650M TO 34M. UNLOADED RA SOURCE. POOH 12 ¼” SCHL LWD BHAF/34M TO SURFACE.B/O &
+	L/DN LWD TOOLS,12 ¼”STAB,B/S & BIT. R/UP SLB W/LINE. M/UP DSI-GR TOOLSTRING & RIH TO BTM @3432.3M (LOGGER’S DEPTH).RECORDED DSI-GR
+	LOGS F/3421M-1830M IN FIRST RUN & ECS-CMR LOGS F/3431.6M TO 2700M IN SECOND RUN.FURTHER LOGGING IS IP.
+	__________________________________________________________________________________________________________________________________
+	10.11.2019:CONTD RECOEDING OF SCHL ECS-CMR LOGS F/2700M TO 1830M.POOH ECS-CMR TOOLSTRING TO SURFACE & L/DN. M/U& RIH PEX-AIT-HNGS
+	TOOLSTRING TO BOTTOM @ 3432.3M (LOGGER’S DEPTH).RECORDED PEX-AIT-HNGS LOGS FROM 3431.6M TO 1831M. POOH PEX-AIT-HNGS TOOLSTRING TO
+	SURFACE & L/DN. M/UP MDT TOOLSTRING. SURFACE CHECK MDT TOOLS IS IP.
+	__________________________________________________________________________________________________________________________________
+	11.11.2019:CONTD SURFACE CHECKED MDT-GR TOOL. OK. RIH MDT-GR TOOL TO 2850M. RECORDED CORRELATION LOG FROM 2850M-2760M. C/O MDT AT
+	17 POINTS IN THE INTERVAL FROM 3326.5M TO 2111.5M  AND COLLECTED SAMPLE @ 2772.3M & 3326.5M. POOH MDT-GR TOOLS TO SURFACE & L/DN.
+	R/DN SCHL W/L SHEAVES. RIH 12 ¼”RR BIT WITH CLEAN OUT ASSY ON 5 ½”DP UPTO 1821M. SLIP & CUT DRILL LINE IS IP.
+	__________________________________________________________________________________________________________________________________
+	12.11.2019:SLIP AND CUT DRILL LINE, CALIBRATED BLOCK. CIR FOR GEL BREAK AT SHOE. CONTD R/I 12 ¼”CLEAN OUT ASSLYWITH 5 ½” DP FROM
+	1821 M TO 3425 M.(BOTTOM). C&C MUD PRIOR TO P/O FOR LOWERING 9 5/8”CASING. FLOW CHECKED-OK. P/O 12 ¼” CLEAN OUT ASSLY FROM 3425 M
+	TO SURFACE. CHANGED UPPER PIPE RAMS (5-1/2"FIXED) TO 9-5/8"CASING RAMS & TESTED @ 5000PSI-OK. R/UP 9-5/8"CASING HANDLING EQUIPMENT
+	IS IP.
+	__________________________________________________________________________________________________________________________________
+	13.11.2019:R/UP 9-5/8” CSG HANDLING EQUIPMENTS. PJSM, P/UP AND M/UP 9-5/8” CSG SHOE, 2 JTSX BTC, F/COLLAR, X/OX/O AND RIH TO 25 M.
+	FUNCTION CHECKED SHOE AND F/C-OK. CONTD RIH WITH TSH-Q125, 53.5 PPF, 9-5/8” CSG FROM 25 M TO TO 1818M @ INSIDE CSG SHOE. CIR FOR
+	GEL-BREAK.CONTD LOWERING 9-5/8” CASING FROM 1818M TO 2709M (TOTAL JTS-210). FILLED CASING REGULARLY. FURTHER CASING LOWERING IS IP.
+	__________________________________________________________________________________________________________________________________
+	14.11.2019:CONTD LOWERING TSH-Q125, 53.5 PPF, 9-5/8” CASING FROM 2709M TO 3414 M. ESTABLISHED CIRC. W/DN ANDTAG BTM AT 3425
+	M.(TOTAL JTS-266),(SHOE AT 3424.5M, F/C AT 3400.6M ). CIRC AND COND MUD PRIOR TO CMT JOB. CARRIED OUT CMT JOB AS PER PLAN. BUMPED
+	PLUG @2000PSI, CHECKED NRV-OK. CLOSED BOP FOR 5 HRS. OPENED BOP. OBSD NO RETURN, WOC. M/WHILE PREPARING FOR N/DOWN 13-5/8"BOP
+	STACK.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	__________________________________________________________________________________________________________________________________
+	15.11.2019:CONTD WOC, M/WHILE PREPARING FOR N/DOWN 13-5/8" BOP STACK. LIFTED BOP, INSTALLED 9-5/8” CASING SLIP.ROUGH CUT CASING,
+	L/DN ONE FULL JOINT AND ONE CUT PIECE OF 9-5/8” CSG. REMOVED BOP. FINAL CUT AND DRESSED 9-5/8” CSG STUMP.INSTALLED C-SECTION WELL
+	HEAD & TESTED @ 3500PSI-OK. N/UP DSA & 13-5/8"BOP STACK. CHANGED 9-5/8"CASING RAMS TO 5-1/2"FIXED RAMS. M/UP TEST PLUG ASSY. M/A
+	FOR TEST BOP IS IP.
+	__________________________________________________________________________________________________________________________________
+	16.11.2019:PERFORMED BOP PRESSURE TEST TO 300PSI/15000PSI (LPR, VBR, UPR, C& K MANUAL AND HCR VALVE, C & K LINEFOSV, LIBOP, UIBOP,
+	SBR), ANNULAR AT 300/7000PSI. PERFORMED ACCUMLATOR DRAW DOWN TEST. B/OFF AND L/D 3 STDS OF 8" DC IN SINGLES. M/UP 8 ½” RR PDC BIT
+	WITH DRG BHA. RIH 8-1/2” DRILLING BHA IN SGLS F/30M TO 289M.CONTD R/I 8-1/2"DRG ASSY ON 5" DP SGLS & 5-1/2"DP STDS F/289M TO 2088M,
+	FURTHER R/I IS IP.
+	__________________________________________________________________________________________________________________________________
+	17.11.2019:CONTD. R/I 8-1/2" DRG ASSY F/2088 M TO 3400 M (TAG F/C AT 3400 M). C/OVER TO 13.5 PPG MUD. C&C MUD.PERFORMED CIT WITH
+	13.5PPG MUD @ 4000PSI-OK.DRILLED F/COLLAR,SHOE TRACK F/3400M TO 3424.70M PERFORMD SIT TO EMW 20.5 PPG-4090PSI WITH 13.5 PPG
+	MUD-OK.DRILL NEW FORMATION F/3424.70 M TO 3429M.PERFORMED LOT WITH 13.5PPG MUD,SURFACE PR @ 3810PSI EMW-20.02PPG.P/O F/3429M TO
+	2500M. FPOIP PRIOR TO R/I LWD.
+	__________________________________________________________________________________________________________________________________
+	18.11.2019:CONTD P/O 8-1/2” DRG ASSY F/2500 M TO 1007 M. P/UP & M/UP 6-¾” PBL SUB.FUNCTION TESTED AT SURFACE-OKFUETHER P/O 8-1/2”
+	DRG ASSY F/1007 M TO SURFACE. P/UP & M/UP 8-1/2”RR 516 PDC BIT & R/I WITH LWD BHA TO 3405M. FILLED STRING & CIR FOR 10 MIN EVERY 10
+	STDS TO COOL DN LWD TOOLS. C/OUT SCHL LWD RE-LOG FROM 3405M TO 3429M. RECORDED HP-HT PARAMETERS FOR FINGER PRINTING. RESUMED 8-1/2”
+	HOLE DRILLING.
+	__________________________________________________________________________________________________________________________________
+	19.11.2019:ESTABLISHED DRILLING PARA. AND RESUMED DRILLING. D/DN 8-½” HOLE WITH LWD BHA  FROM 3429 M TO 3542M.FDIP.
+	__________________________________________________________________________________________________________________________________
+	20.11.2019:CONTD DRILL DOWN 8 ½” HOLE WITH LWD BHA F/3542 M TO 3585M. C & C MUD & INCRESED MUD WT FROM 15.4PPG.TO 16.5 PPG.
+	RECORDED HP-HT PARAMETERS FOR FINGER PRINTING. FLOW CHECKED- WELL STATIC. P/O 8 ½” BIT WITH LWD BHA FROM 3585 M TO 3500 M. FURTHER
+	P/O IS IP. MEAN WHILE PREPARING RESERVE KILL MUD OF 18PPG IS IN PROGRESS (PRESENT KILL MUD WT 14.7PPG).
+	__________________________________________________________________________________________________________________________________
+	21.11.2019:CONTD P/O 8 ½”BIT WITH LWD BHA FROM 3500 M TO 3418 M.(INSIDE CSG SHOE).C &C MUD AT SHOE WITH 280GPMM/W PREPARED RESERVE
+	KILL MUD OF 18PPG AND RECEIVED 213 MT BARITE. RIH 8 ½” BIT WITH LWD BHA FROM F/3418 M TO 3585 M. C & C MUD. RESUMED DRILLING. D/DN
+	8 ½’ HOLE WITH LWD BHA FROM 3585 M TO 3590 M. CIR. FOR BTM UP TO CHECK SAMPLE. CONT D/DN F/3590 M TO 3600 M. CIR FOR BTM UP TO
+	CHECK SAMPLEIS IP.
+	__________________________________________________________________________________________________________________________________
+	22.11.2019:CIR. FOR BOTTOM UPS TO CHECK SAMPLE.CONTD. DRILL DOWN 8 ½” HOLE WITH LWD BHA F/3618 M TO 3624 M.OBSDGAS(3.9 %MAX),FLOW
+	CHECK WELL–STATIC. C & C MUD. CONTD. DRILL DOWN 8 ½”HOLE F/3624 M TO 3668 M.OBSVD DRILL BREAK. FLOW CHECKED-WELL STATIC.CIR FOR
+	BOTTOMS UP FOR SAMPLE CHECK.OBSD MAX PUMP OFF GAS-17.3 CONT DRILL 8 ½”HOLE F/3668 M TO 3671M. FDIP.BG MAX 0.6%.M/W INCREASING MUD
+	WT F/17PPG TO 17.2PPG IP.
+	__________________________________________________________________________________________________________________________________
+	23.11.2019:CONT DRILL 8 ½” HOLE WITH LWD BHA FROM 3671 M TO 3712M. FDIP. BG GAS: 0.3-0.5 %, PUMP OFF GAS-16.6%(MAX) AT 3699M,
+	BHT-139°C, FLT- 83°C.
+	__________________________________________________________________________________________________________________________________
+	24.11.2019:CONTD D/DN 8 ½” HOLE WITH LWD BHA FROM 3712 M TO TO 3733 M, FDIP. BG GAS -0.05-0.2%, PUMP OFF GAS-10.5% (MAX),
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	BHT-139°C, FLT- 85°C, ECD-18.9 PPG.
+	__________________________________________________________________________________________________________________________________
+	25.11.2019:CONTD D/DN 8 ½” HOLE WITH LWD BHA FROM 3733 M TO 3744M. OBSERVED POOR ROP. BG GAS -0.04%,CONNECTIONGAS -2.2% (MAX). C &
+	C MUD PRIOR TO P/O FOR BIT/BHA CHANGE, MEANWHILE INCREASED MUD WEIGH FROM 17.4 PPG TO 17.6 PPG. FLOW CHECKED- WELL STATIC. PUMP OUT
+	FROM 3744M TO 3420M(9 5/8” CSG SHOE),NO T/PULL. FLOW CHECKED-WELL STATIC. C & C MUD & INCREASING MUD WEIGHT FROM 17.6PPG TO 17.8
+	PPG IS IP.
+	__________________________________________________________________________________________________________________________________
+	26.11.2019:CONTD C&C MUD AT SHOE. FLOW CHECKED. WELL STATIC. POOH 8 ½” LWD DRLG ASSLY ON  5-1/2” & 5”DP FR 3420M TO 32M. B/O & L/DN
+	JAR & PBL SUB. UNLOADED RA SOURCE. POOH FR 32M TO SURFACE. B/O & L/DN LWD TOOLS & 8 ½”BIT. M/UP HLB TURBINE AND BEARING SECTION.
+	SURFACE TESTED TURBINE AT 252 GPM & 1020 PSI. OK. M/UP & RIH NEW 8 1/2" IMPREG BIT WITH TURBINE DRLG ASSY UPTO 2361M. FURTHER RIH
+	IS IP.
+	__________________________________________________________________________________________________________________________________
+	27.11.2019:CONT RIH 8-1/2” TURBINE DRLG ASSY FR 2361M TO 3187M. FUNCTION TESTED BOP STK. OK. RIH 8 ½”TURBODRILLDRLG ASSY FR 3187M
+	TO 3442M.MUD CIRC TO REDUCE MUD WT FR 17.8 PPG TO 17.6 PPG. WASHED DN FR 3442M TO 3720M.OBSD HELD UP AT 3720M. REAMED DN FR 3720M
+	TO BTM @ 3744M. M/W REDUCED MUD WT TO 17.4 PPG. RESUMED DRLG & D/DN 8½” HOLE WITH TURBODRILL ASSY FR 3744M TO 3761M. FDIP.
+	__________________________________________________________________________________________________________________________________
+	28.11.2019:CONTD DRLG & D/DN 8½” HOLE WITH TURBODRILL ASSY FROM 3761 M TO 3792M. OBSD DRILL BREAK. MUD CIRC FORBTM UP SAMPLE
+	(SHALE:60%, SL ST: 40%). RESUMED DRLG & D/DN 8½” HOLE WITH TURBODRILL ASSY FROM 3792 M TO 3834M (BG GAS- 0.6-1.2%, CONNECTION GAS-
+	1.8%). FDIP.
+	__________________________________________________________________________________________________________________________________
+	29.11.2019:CONT DRLG & D/DN 8½” HOLE WITH TURBODRILL ASSY FR 3834 M TO 3868M. OBSD DRILL BREAK. FLOW CHECKED.NEGATIVE. MUD CIRC FOR
+	BTMS UP SAMPLE (SHALE:60%, SL ST: 30%, L ST: 10%. MAX BTM UP GAS- 4.54%). RESUMED DRLG. D/DN 8½” HOLE WITH TURBODRILL ASSY FROM
+	3868 M TO 3884M. FDIP.
+	__________________________________________________________________________________________________________________________________
+	30.11.2019:CONT DRLG & D/DN 8½” HOLE WITH TURBODRILL ASSY FR 3884 M TO 3937M(BG GAS- 0.7%,CONNECTION GAS-3.55%)FDIP.
+	__________________________________________________________________________________________________________________________________
+	01.12.2019:CONT DRLG & D/DN 8½” HOLE WITH TURBODRILL ASSY FR 3937 M TO 3972M. FDIP.
+	__________________________________________________________________________________________________________________________________
+	02.12.2019:CONT DRLG & D/DN 8½” HOLE WITH TURBODRILL ASSY FR 3972 M TO 3996M(TD).C&C MUD PRIOR TO SHORT TRIP.INCREASED MUD WEIGHT
+	FROM 17.4 PPG TO 17.6 PPG. FLOW CHECKED- NEGATIVE.POOH 8 ½” BIT WITH TURBODRILL ASSY ON 5 ½”DP FROM 3996 M TO 3700 M. OBSD NO TIGHT
+	PULL. RIH FROM 3700 M TO 3984M. OBSD NO HELD UP. FURTHER RIH BY WASHING DN LAST STD IS IP.
+	__________________________________________________________________________________________________________________________________
+	03.12.2019:CONT WASHED DN WITH 8 ½”TURBODRILL ASSLY FR 3984M TO BTM @3996M.C&C MUD.INCREASED MUD WT FR 17.6 PPGTO 17.7 PPG.FLOW
+	CHECKED.OK.PUMPED OUT OF HOLE 8 ½”TURBODRILL ASSLY ON 5 ½”DP FR 3996M TO 3460M.C&C MUD TO INCREASE MUD WT FR 17.7 PPG TO 17.9
+	PPG.FLOW CHECKED-NEGATIVE. P/O 8 ½” BIT WITH TURBODRILL ASSY FROM 3460 M TO 159M.B/O & L/DN DRLG JAR PRIOR TO FURTHER POOH IS IP.
+	__________________________________________________________________________________________________________________________________
+	04.12.2019:CONTD POOH 8 ½” TURBODRILL BHA FROM 159M TO SURFACE. B/O & L/DN  12 ¼”STAB, PBL SUB, HLB TURBINE ANDBEARING SECTION. C/O
+	BOP FUNCTION TEST. OK. R/DN LWD PRESSURE SENSORS & D/W SENSORS FROM RIG FLOOR. R/UP SLB W/L SHEAVES.SCHL RECORDED
+	HNGS-HAPS-HLDS-QAIT LOGS FROM 4004M TO 3432M IN 1ST RUN & DSI-GR LOG(MAIN PASS) FROM 3991M TO 3432M IN 2ND RUN. RECORDING OF DSI-GR
+	REPEAT PASS IS IP.
+	__________________________________________________________________________________________________________________________________
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	05.12.2019:CONT RECORDING DSI-GR REPEAT PASS F/3500M TO 3600M.POOH & L/DN DSI-GR TOOLS.FURTHER LOGGING COULDNOT BE DONE DUE TO NON
+	AVAILABILITY OF EC FOR LOGGING TOOLS TO BE LOWERED IN HOLE.R/DN SCHL W/L. RIH 05 STDS OF 5-1/2”OEDP UPTO 143M FOR SAFETY.CONT
+	WAITING FOR EC FOR LOGGING TOOLS. POOH 5 ½”OEDP FROM 143M TO SURFACE.M/UP & RIH 8 ½”CLEAN OUT ASSLY UP TO 3424M.SLIPPED & CUT 105FT
+	DRILL LINE.C&C MUD IP
+	__________________________________________________________________________________________________________________________________
+	06.12.2019:CONT C&C MUD TO REDUCE MW FR 17.9PPG TO 17.7PPG.RIH 8 ½”CLEAN OUT ASSLY ON 5 ½”DP FR 3424M TO BTM @3996M.C&C MUD.FLOW
+	CHECKED.NEGATIVE.PUMPED OUT OF HOLE FR 3996M TO 3881M & POOH FR 3881M TO 3424M. C&C MUD TO INCREASE MW FR 17.7PPG TO 17.9PPG. FLOW
+	CHECK- NEGATIVE.POOH 8 ½”BIT WITH CLEAN OUT ASSLY FROM 3424M TO SURFACE. R/UP SCHL W/L SHEAVES. M/UP ECS-GR TOOLSTRING.SURFACE
+	CHECK TOOLSTRING IS IP.
+	__________________________________________________________________________________________________________________________________
+	07.12.2019:CONTD SURFACE CHECK SCHL W/LINE ECS-GR TOOLSTRING.OK.LOADED RA SOURCE.RIH & RECORDED ECS-GR LOGS FR4002M TO 3432M.POOH
+	TOOLSTRING TO SURFACE.UNLOADED RA SOURCES.L/DN ECS-GR TOOLS. M/UP & RIH VSP TOOLSTRING TO 3240M. RECORDED VSP FROM 3240M TO 760.3M
+	@15.12M INTERVALS.POOH VSP TOOLSTRING TO SURFACE & L/DN.M/UP & RIH QAST TOOLSTRING TO 100M.FURTHER RIH IS IP.
+	__________________________________________________________________________________________________________________________________
+	08.12.2019:CONTD RIH SCHL W/L QAST TO 4000M.RECORDED VSP(QAST) FROM 3996M TO 3134.16M @15.12M INTERVALS. POOHPOOH VSP(QAST)
+	TOOLSTRING TO SURFACE & L/DN QAST TOOLS. R/DN SCHL W/L  SHEAVES. RIH ONE STD 5 ½”OEDP & CHANGED OVER SOBM TO SEA WATER.CHANGED UPR
+	FROM 5-1/2" TO 7” FIXED RAMS. RETRIEVED WEAR BUSHING. M/A TO TEST BOP STACK IS IP.
+	__________________________________________________________________________________________________________________________________
+	09.12.2019:FUNCTION TESTED BOP STACK.OK.PR TESTED 13 5/8”ANN BOP @ 300 PSI & 7000 PSI – OK.PR TESTED PIPE/VAR/SHEAR RAM BOP
+	STK,FOSV,IBOP,HCR,CHOKE & KILL MANNUAL  VALVES @ 300PSI & 12000PSI.OK. RIH 8-1/2”CLEAN OUT ASSLY ON 5 ½”DP FR 3424M TO BTM @
+	3996M.C&C MUD.PUMPED OUT OF HOLE F/3996M TO 3881M.POOH 8 ½” CLEAN OUT ASSLY ON 5 ½”DP F/3881M TO 3424M.C&C MUD TO INCREASE MW FR
+	17.7PPG TO 17.9PPG IS IP.
+	__________________________________________________________________________________________________________________________________
+	10.12.2019:CONTD C & C MUD & INCREASED WEIGHT FROM 17.7+ PPG TO 17.9PPG AT CASING SHOE.FLOW CHECKED WELL STATICR/UP 7" CASING
+	HANDLING EQUIPMENT. HELD PJSM. P/UP 7" CASING SHOE JOINT & CHECKED NRV-OK. R/I SHOE TRACK WITH FLOAT COLLAR AT TWO JTS APART &
+	LANDING COLLAR AT ONE JTS APART TO 41M. CONT R/I 7” LINER (SL-XD, 35PPF, Q-125) TO 765 M (TOTAL JTS-67). PLACED CENTRALIZERS AS PER
+	PLAN.FURTHER LOWERING IP.
+	__________________________________________________________________________________________________________________________________
+	11.12.2019:CONTD. M/UP LINER HANGER ASSLY. AND R/I SL-XD, 35PPF, Q-125, 7” LINER WITH 5 ½" DP  F/765M TO 3419M(9 5/8” CSG SHOE). C
+	& C MUD AND REDUCE MUD WEIGHT FROM 17.9PPG TO 17.7PPG. CONT LOWERING 7” LINER WITH 5 ½”DP F/3419 M TO 3996 M, KEPT SHOE @ 3994M &
+	HANGER TOP @ 3223M. C&C MUD PRIOR TO CEMENTATION JOB. OBSD BTM UP GAS 3.43 % MAX. R/UP CEMENTING HEAD & SURFACE LINES. TESTING OF
+	CEMENT LINE IS IP.
+	__________________________________________________________________________________________________________________________________
+	12.12.2019:PR.TESTED SURFACE LINES. C & C MUD,M/W PREPARED CEMENT SLURRY IN BATCH MIXER.CARRIED OUT CEMENTATIONJOB AS PER
+	PLAN.BUMPED PLUG AT 2500PSI.OBSVD NO MUD LOSS.CHECKED NRV OK. SET HANGER AT 3223M WITH 3500PSI.P/UP 50 KIPS ABOVE STRING WT. TO
+	CONFIRM HANGER SET. RELEASE RUNNIG TOOL.P/O TO SURFACE.OBSD THICK CONTAMINATED CEMENT LAYER ON ONE SIDE OF DRILL FROM 435M. M/UP 8
+	½” BIT & RIH TO 2228 M. FRIP.
+	__________________________________________________________________________________________________________________________________
+	13.12.2019:RIH 8 ½” BIT WITH SLICK BHA F/2228 M TO 2766M.OBSVED HELD UP 10 KIPS AT 2768M. REAMED DOWN & CLEAEDTHE SAME.AFTER THAT
+	OBSVED INTERMITTENTLY CONTAMINATED CEMENT F/2766M TO 3223M, CLEARED & TAG H/TOP @ 3223M. C & C MUD. P/O 8 ½” BIT F/3223M TO
+	SURFACE. M/UP 5-7/8" BIT AND R/I SLICK BHA WITH 3.5”D/P SINGLE'S TO 1006M.(TOTAL JOINTS P/UP-87 NOS). CONTD R/I 5 7/8” BIT ON 51/2”
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	DP TO 2650M. FRIP.
+	__________________________________________________________________________________________________________________________________
+	14.12.2019:CONTD R/I 5-7/8”BIT WITH SLICK BHA ON 5-1/2”DP F/2650M TO 3866M. OBSVD STRING TOOK 10 KIPS WEIGHT.REAM DOWN & CLEARED
+	FROM 3866M TO 3954M & TAGGED LANDING COLLAR AT 3954M WITH 8 KIPS. C & C MUD. P/O 5-7/8”BIT WITH SLICK BHA F/3954M T0 SURFACE. M/UP
+	& R/I 5 7/8”BIT WITH 7”SCRAPPER ASSLY UP TO 757M. M/UP X-OVERS & 9-5/8” SCRAPPER. CONTD R/I TANDEM SCRAPPER ASSY F/757 M TO 2773M.
+	FRIP.
+	__________________________________________________________________________________________________________________________________
+	15.12.2019:CONT R/I TANDEM SCRAPPER ASSY F/2773M TO 3954M,RECEPROCATED & SCRAPPED BETWEEN 3750M TO 3807M(THRICEC & C MUD. FLOW
+	CHECKED- WELL STATIC. P/O TANDEM SCRAPPER ASSY FROM 3954M TO SURFACE. R/UP SHOOTING NIPPLE. R/UP SCHL W/L SHEAVES.M/UP DUAL PACK
+	OFF ASSY. TEST TO 700 PSI. OK. M/UP CBL-VDL-GR-CCL TOOL STRING.RIH & RECORDED CBL-VDL LOG F/3962M TO 3234.5 M(H/TOP)”0”PSI&700PSI.
+	P/O SCHL WIRE LINE IS IP.
+	__________________________________________________________________________________________________________________________________
+	16.12.2019:P/OUT SCHL W/LINE.R/DN SCHL EQUIPMENT & SHOOTING NIPPLE.R/I WITH OEDP FROM SURFACE TO 2000M.DISPLACESOBM WITH SEA
+	WATER.CARRIED OUT NEGATIVE TEST. WELL STATIC. CONTD R/I WITH OEDP FROM 2000M TO 3954M (L/COLLER).C/OVER TO SEA WATER.C/OUT NEGATIVE
+	TEST,OK. R/UP SURFACE LINE & TEST ASSLY. TESTED WELL HERMETICALLY @ 9900 PSI AT 0330HRS. OK. CHANGED OVER TO 17.7 PPG SOBM. M/A TO
+	P/O IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	17.12.2019:FLOW CHECKED- WELL STATIC. P/O OEDP FROM 3954M TO 2000M. SLIP AND CUT DRILL LINE,CALLIBRATED BLOCK.CONTD P/O OEDP
+	F/2000M TO SURFACE.DURING P/O L/ DN 75 SGLS OF 5" DP. CHANGED UPR FROM 7” CASING RAMS TO 5” FIX RAMS & LPR FROM 5 ½” FIX RAMS TO 3
+	½” FIX RAMS. M/UP 9-5/8"TEST PLUG ASSY ON 3 ½” DP PRIOR TO TEST 13-5/8" BOP STACK IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	18.12.2019:CONTD M/UP & R/I 9-5/8" TEST PLUG ASSY ON 3 ½” DP. TESTED 3 ½" FIXED RAMS 300PSI/12000PSI-OK. M/UP5"TEST ASSY. TESTED
+	VBR,5"FIXED RAMS,FOSV,UPPER/LOWER IBOP,HCR/MANUAL CHOKE AND KILL,CHOKE/KILL LINE 300PSI/12000PSI-OK.ANNULAR 300PSI/7000PSI. R/I
+	OEDP FROM SURFACE TO 2200 M.DISPLACED WELL SOBM WITH SEA WATER.P/O OEDP TO SURFACE.P/UP & R/I 3-1/2"TUBING SNGLS TO 269M(28SGL)FOR
+	MAKING STDS. FRIP.
+	__________________________________________________________________________________________________________________________________
+	19.12.2019:CONTD P/UP SINGLE & M/UP 15 STDS OF 3-1/2"(12.70PPF, VA SUPERIOR)TUBING. M/W RECEIVED DST TOOL. P/O15 STDS OF
+	3-1/2"TUBING.R/I FLEX BHA WITH 1 STAND OF 3-1/2" TUBING.TESTED FLEX BHA AT 10500 PSI.OK. COND R/I 14 STDS OF 3-1/2"TUBING WITH FLEX
+	BHA & P/UP SINGLES TO 1023M(TOTAL 105 SGLS).TESTED STRING AT 11000PSI-OK.CONTINUE P/UP &
+	__________________________________________________________________________________________________________________________________
+	20.12.2019:CONTD P/UP & R/I 15SGLS OF 3-1/2"TBG(L-80,12.70PPF,VA SUPERIOR)WITH FLEX BHA TO 2022M(TOTAL210 SGLS)TESTED STRING AT
+	11000PSI-OK.FLEX STRING 5 TIMES.OPERATED RD TST & REV/OUT ONE STRING VOL.P/O 3-1/2" TBG WITH FLEX BHA TO SURFACE. P/UP & M/UP 2ND
+	HLS FLEX BHA. R/I WITH 3 SGLS OF 3-1/2” TUBING.TESTED FLEX BHA AT 11000 PSI- OK. COND P/UP & R/I 82 SGLS OF 3-1/2"TUBING. TO 786M
+	(TOTAL 85 SGLS). FRIP.
+	__________________________________________________________________________________________________________________________________
+	21.12.2019:P/UP & R/I 21 SGLS OF 3-1/2"TUBING WITH FLEX BHA F/786 M TO 1007 M. TESTED STRING AT 11000 PSI.OK.CONTD P/UP & R/I
+	3-1/2" TUBING WITH FLEX BHA F/1007 M TO 2030M (TOTAL 207 SGLS).M/UP 6 NO OF 3-1/2" PUP JOINTS & R/I 03 SGLS OF 3-1/2" TUBING TO
+	2063M.TESTED STRING AT 11000 PSI-OK. FLEX STRING 5 TIME OPERATED RDTST & REV/OUT. P/O 3-1/2" TUBING STAND WITH FLEX BHA TO 13M.
+	FURTHER P/O BHA IS IP.
+	__________________________________________________________________________________________________________________________________
+	22.12.2019:P/OUT & L/DN FLEX BHA FROM 13M TO SURFACE. TOOK RAM IMPRESSION FOR SSV SPACE OUT ON 5” DP. RIH 3 ½”OEDP (833M) AND 5 ½”
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	D/P, FROM SURFACE TO 2260M. DISPLACED WELL FROM S/WATER TO 17.7 PPG SOBM. C & C SOBM. CONTD. RIH 5 ½” D/P FROM 2260M TO 3954M
+	(LANDING COLLAR). C & C SOBM AT LANDING COLLAR.WAITING ON CHEMICALS(WEIGHTING MATERIAL) F/2330HRS FOR WARP TESTING FLUID PRIOR TO
+	C/OVER WELL SOBM TO WARP.
+	__________________________________________________________________________________________________________________________________
+	23.12.2019:WAITING ON CHEMICALS (WEIGHTING MATERIAL) FOR WARP TESTING FLUID PRIOR TO C/OVER WELL SOBM TO WARP.M/WHILE BOAT GS
+	ROHINI REPORTED @ 1930HRS AND STARTED TO DELIVER CHEMICALS & IBC TANK. MIXING OF CHEMICALS & WEIGHING-UP WARP TESTING FLUID IS IN
+	PROGRESS. M/W CIRC SOBM FOR GEL BREAK AFTER EVERY  06 HRS.
+	__________________________________________________________________________________________________________________________________
+	24.12.2019:CONT MIXING OF CHEMICALS & INCREASED WT OF  WARP TESTING FLUID UPTO 15.5+ PPG AT SURFACE. FURTHERCHEMICAL MIXING &
+	INCREASING WT OF WARP TESTING FLUID IS IN PROGRESS. M/W CIRC SOBM FOR GEL BREAK AFTER EVERY 06 HRS.
+	__________________________________________________________________________________________________________________________________
+	25.12.2019:CONT MIXING OF CHEMICALS & INCREASED WT OF WARP TESTING FLUID FROM 15.5+ PPG TO 16.2 PPG AT SURFACE.FURTHER OPERATIONS
+	COULDN'T BE RESUMED DUE TO UNAVAILABILITY OF EXPRO PRODUCTION TESTING EQUIPMENTS & MANPOWER. WAITING FOR EXPRO PRODUCTION TESTING
+	EQUIPMENTS & MANPOWER. M/WHILE CIRC SOBM FOR GEL BREAK AFTER EVERY 06 HRS.
+	__________________________________________________________________________________________________________________________________
+	26.12.2019:CONT WAITING FOR EXPRO PRODUCTION TESTING EQUIPMENTS & MANPOWER SINCE 2300HRS OF 25.12.2019. M/WHILECIRC SOBM FOR GEL
+	BREAK AT L/COLLAR AFTER EVERY 06 HRS.
+	__________________________________________________________________________________________________________________________________
+	27.12.2019:CONT WAITING FOR EXPRO PRODUCTION TESTING EQUIPMENTS SINCE 2300HRS OF 25.12.2019. M/WHILE CIRC SOBMFOR GEL BREAK AT
+	L/COLLAR AFTER EVERY 06 HRS.
+	__________________________________________________________________________________________________________________________________
+	28.12.2019:CONT WAITING FOR EXPRO PRODUCTION TESTING EQUIPMENTS SINCE 2300HRS OF 25.12.2019. M/WHILE CIRC SOBMFOR GEL BREAK AT
+	L/COLLAR AFTER EVERY 06 HRS.
+	__________________________________________________________________________________________________________________________________
+	29.12.2019:CONTD WAITING FOR EXPRO PRODUCTION TESTING EQUIPMENTS SINCE 2300 HR OF 25.12.2019. C&C MUD. CHANGEDOVER WELL VOLUME OF
+	SOBM TO 16.2 PPG WARP TESTING FLUID. CLEANED FLOW LINE AND MUD CHANNEL. C&C WITH WARP TESTING FLUID. FLOW CHECKED. NEGATIVE. POOH 5
+	½” & 3 ½” OEDP STANDS FROM 3954M TO SURFACE. FUNCTION TEST OF 13-5/8” BOP STACK IS IP.
+	__________________________________________________________________________________________________________________________________
+	30.12.2019:FUNCTION TESTED 13-5/8” BOP STACK.OK.P/UP & M/UP EXPRO CONTROL HEAD, STIFF JOINT & X/O. TORQUED UPCONNECTIONS. L/DN
+	C/HEAD. P/UP, M/UP AND RIH HLS TCP-DST BHA UPTO 169M.PR TESTED TCP-DST BHA AT 120M & 169M @ 11000 PSI DURING RIH.RIH TCP-DST ASSY
+	ON 3-1/2" VA SUPERIOR TUBING (12.70PPF, L-80) STDS FR 169M TO 198M. DRIFTED 3 1/2" TBG WITH 2.50" DRIFT & FILLED UP STRING WITH
+	DIESEL. FURTHER RIH IS IP.
+	__________________________________________________________________________________________________________________________________
+	31.12.2019:CONT RIH TCP-DST ASSY ON 3 1/2” VA SUP TBG FROM 198 M TO 1169 M. PR TESTED TCP-DST STRING @ 11000PSIOK. RIH TCP-DST ASSY
+	ON 3 1/2” VA SUP TBG FROM 1169 M TO 2454M. PR TESTED TCP-DST STRING @ 11000 PSI OK. RIH TCP-DST ASSY ON 3 1/2” VA SUP TBG FROM 2454
+	M TO 3489M. DRIFTED TBG STDS WITH 2.5” DRIFTS. FILLED DIESEL EVERY 5TH STAND. FURTHER RIH IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	01.01.2020:CONTD RIH TCP-DST STRING F/3489M TO 3834M.PR TESTED TCP-DST STRING @11000 PSI.OK. R/UP SCHL W/LINE &GR-CCL TOOLS.C/O
+	DEPTH CORRELATION. SPACED OUT TCP-DST STRING. PR TESTED STRING @11000 PSI-OK. R/UP C/HEAD.PR TESTED TCP-DST STRING WITH C/H
+	@11000PSI-OK.SET 7"PACKER @ 3762.70M.R/UP & TESTED UPSTREAM LINES @11000PSI & DOWNSTREAM LINES @1000PSI-OK.M/A TO OPERATE STV IS
+	IP.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	__________________________________________________________________________________________________________________________________
+	02.01.2020:OPERATED STV IN FAILSAFE MODE.TESTED 7”PKR AT 1400PSI.OK.SCHL W/L RIH CCL TOOL TO 3780M.
+	PERFORATEDOBJ-I(3863-3855.5M,3851-3848M,3840-3835M,3830-3824M,3817-3808M,3804-3797M @5 SPF) INITIAL STHP-6000 PSI.OPENED WELL THRU
+	1/8”CHOKE & KNOCKED OUT CUSHION DIESEL.FLOW DIVERTED TO SEPARATOR,FLOWING GAS & WATER.FTHP:5600PSI,FTHT:152°F.Q(GAS):4551
+	M3/DAY,Q(WATER):634 BPD.WATER SALINITY:9900PPM AS NACL.WUO
+	__________________________________________________________________________________________________________________________________
+	03.01.2020:CONTD TO FLOW WELL THRU SEPARATOR BY 1/8”CHOKE.WELL FLOWING GAS & WATER.CLOSED STV.CYCLED STV LOCKOPEN & OMNI IN CIRC
+	MODE. REVERSED OUT STRING VOL WITH 16.2 PPG WARP FLUID & COLLECTED BTM  SAMPLES. CHANGED OVER TO 17.7PPG MUD.RUPTURED RDSCV & RDCV.
+	BULL HEADED SUMP VOLUME(12BBL) @1200PSI. RELEASED 7"PKR. C&C MUD TO INCREASE MUD WT TO 17.8 PPG.R/DN C/HEAD.R/DN STIFF JOINTS IS
+	IP.
+	__________________________________________________________________________________________________________________________________
+	04.01.2020:B/O & L/DN EXPRO STIFF JOINTS WITH X/O. C&C MUD WITH 17.8PPG SOBM. FLOW CHECKED. NEGATIVE. POOH TCP-DST ASSY ON 3-1/2"
+	VA SUPERIOR TBG FROM 3858M TO 140M (BHA). B/O & L/DN 03 SLIP JOINTS AND X/O.POOH & L/DN TCP-DST BHA FROM 140M TO 125M. FURTHER POOH
+	& L/DN TCP-DST BHA IS IP.
+	__________________________________________________________________________________________________________________________________
+	05.01.2020:CONT POOH, B/O & L/DN TCP-DST BHA (DST TOOLS, TCP GUNS & FIRING HEADS) FROM 125 M TO SURFACE. M/A,P/UP AND RIH 42 JTS OF
+	2-7/8” OPEN END EUE TUBING SINGLE BY SINGLE FROM SURFACE TO 402M.FURTHER RIH 2-7/8"OPEN END TBG WITH 3-1/2" & 5-1/2"DP STDS FROM
+	402M TO 3868M (5M BELOW PERFORATION.C&C MUD PRIOR TO CEMENT SQEEZE PLUG JOB IS IP.
+	__________________________________________________________________________________________________________________________________
+	06.01.2020:C&C MUD.SPOTTED 16BBL BASE OIL.OBSD INJECTIVITY @0.7 BPM AT 2000PSI.C&C MUD.C/O CMT SQUEEZE PLUG JOBPUMPED 15BBL-18PPG
+	TUNED SPACER,23BBL-19PPG CMT SLURRY & 03BBL SPACER.DISPLACED WITH 207.5BBL MUD.PO 11 STDS.SQEEZED 04BBL CMT SLURRY @3300 PSI.MUD
+	CIRC TO WASH STRING.POOH 02 STDS.WELL UNDER PR @4400 PSI FOR 06HR(SQUEEZED-2BBLS).POOH 5-1/2" DP WITH 3 ½”DP & 2-7/8"OE TBG F/3498
+	TO 3128M. F/POOH IP.
+	__________________________________________________________________________________________________________________________________
+	07.01.2020:CONT POOH 5-1/2" D/P, 3 ½” DP & 2-7/8" OE TUBING FROM 3128 M TO SURFACE. M/UP 5 7/8” (RR) PDC BITWITH SLICK BHA AND RIH
+	TO 3498 M. W/DOWN FROM 3498M TO 3608M & TAGGED CEMENT AT 3608M WITH 16KIPS. TESTED CEMENT PLUG @1000PSI-OK. D/DOWN CEMENT FROM
+	3608M TO 3695M. OBSERVED NO CEMENT AFTER 3695M. CLEARED HOLE FROM 3695 TO 3745M. FURTHER CLEARING IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	08.01.2020:CLEARED CEMENT WITH 5-7/8" SLICK ASSY FROM 3745 M TO 3810 M. CIRC TO HOLE CLEAN. R/UP SCHL W/LINE,SURFACE TESTED GR-CCL
+	TOOL–OK AND RIH TO 3630M. CO-RELATED DEPTH. POOH SCHL W/LINE. TESTED CEMENT PLUG @1000PSI-OK. DRILLED CEMENT FROM 3810M TO 3840M. C
+	& C MUD. TESTED CEMENT PLUG @ 1000PSI-OK. P/O 5-7/8" SLICK ASSY FROM 3840M TO 1246M, FURTHER P/O IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	09.01.2020:CONTD P/O 5-7/8" SLICK ASSY F/1246 M TO 1000 M. DISPLACED WELL WITH SEA WATER THRU FULL OPEN CHOKE.CARRIED OUT NEGETIVE
+	TEST-OK. DISPLACED WELL WITH 17.8 PPG SOBM. P/O 5-7/8" SLICK ASSY FROM 1000M TO SURFACE. PRESSURE TESTED BOP, RAMS AT 300 PSI/12000
+	PSI & ANNULAR AT 300PSI/7000 PSI-OK. M/UP 5-7/8" (RR) PDC BIT WITH SLICK BHA & RIH TO 3840M (LOGGERS DEPTH) & TAGGED CMT AT 3840M.
+	D/DOWN CMT IS IP.
+	__________________________________________________________________________________________________________________________________
+	10.01.2020:D/DN CMT WITH 5 7/8” SLICK ASSY F/3840 M TO 3848 M.CIRC TO HOLE CLEAN.TESTED CMT PLUG @ 1000 PSI-OK.P/O 5 7/8” SLICK
+	ASSY FROM 3848 M TO 1000 M.DISPLACED WELL WITH SEA WATER. CARRIED OUT NEGETIVE TEST OK. DISPLACED WELL WITH 17.8 PPG SOBM. CONT P/O
+	5-7/8" SLICK ASSY FROM 1000M TO SURFACE. M/UP 5-7/8" (RR) TCR BIT & R/I WITH TANDEM SCRAPPER (7" & 9-5/8") ASSY TO 901M. SLIP & CUT
+	DRILL LINE IS IP.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	__________________________________________________________________________________________________________________________________
+	11.01.2020:CONTD SLIP & CUT 105 FT DRILL LINE AND CALIBRATED BLOCK. RIH 5-7/8"(RR) TCR BIT WITH TANDEM SCRPPER(7" & 9-5/8") FROM
+	901 M TO 3848 M. SCRAPPED THRICE AT INTERVAL OF 3735 M TO 3763 M. C & C SOBM. CHANGED OVER FROM 17.8PPG SOBM TO 16.2PPG WARP
+	TESTING FLUID. FLUSHED AND CLEANED SURFACE LINE. C & C WITH 16.2PPG WARP. P/O TANDEM SCRAPPER ASSY FROM 3848M TO 2569M, FURTHER P/O
+	IS IP.
+	__________________________________________________________________________________________________________________________________
+	12.01.2020:CONTD P/O 5-7/8" BIT WITH TANDEM SCRAPPER FROM 2569 M TO SURFACE. P/UP, M/UP & RIH TCP- DST BHA TO108M.REV OUT 5BBLS OF
+	WARP TESTING FLUID & TESTED BHA AGAINST RD-TST @ 10500 PSI-OK. DIRECT CIRC. TO CONFIRM RD-TST OPEN.CLOSED STV AT SURFACE.TESTED BHA
+	AGAINST STV @10500 PSI- OK. CONTD RIH TCP-DST BHA TO 156M. TESTED DST BHA TO 10500 PSI-OK. CONT RIH TCP-DST ASSY WITH 3-1/2"TUBINGS
+	TO 617M. FRIP.
+	__________________________________________________________________________________________________________________________________
+	13.01.2020:CONTD R/I TCP-DST ASSY WITH 3-1/2" VA SUPERIOR TBG (12.70 PPF, L-80) FROM 617 M TO 1279 M.P/U & M/UP3 X SLIP JOINTS,
+	X/O, RA SUB AND R/I WITH ONE STD OF 3 ½” TBG UP TO 1320 M.TESTED TCP-DST STRING TO 10500 PSI-OK.CONTD R/I TCP-DST ASSY WITH
+	3-1/2"TBG TO 2555M.TESTED DST STRING TO 10500 PSI-OK. CONT R/I TCP-DST ASSY TO 3820M.TESTED DST STRING TO 10500 PSI-OK. R/UP SCHL
+	W/LINE FOR CORELATION IS IP.
+	__________________________________________________________________________________________________________________________________
+	14.01.2020:R/UP SCHL W/LINE.C/OUT DEPTH CORRELATION.SPACED OUT TCP-DST STRING.TESTED TCP-DST STRING TO 10500PSIOK.R/UP EXPRO
+	CONTROL HEAD.TESTED TCP-DST STRING WITH CONTROL HEAD @10500PSI-OK.SET PACKER @ 3752.73 M.OPERATED STV IN FAILSAFE MODE. RIH WITH
+	SCHL.CCL TOOL UP TO 3740M OBSD STV IS CLOSE.
+	__________________________________________________________________________________________________________________________________
+	15.01.2020:CONTD. TROUBLE SHOOTING REGARDING PRESSURE IN STRING. M/A TO OPEN THE WELL. STHP:5800PSI.OPENED WELLTHRU 1/8” CHOKE WELL
+	FLOWED GAS AND WARP FOLLOWED BY GAS AND WATER. FLOW MEASUREMEN THRO  1/8” CHOKE WELL FLOWING GAS WITH WATER @ STABLE FTHP: 5600PSI,
+	FTHT: 159°C. OBSERVED LEAKAGE 3 ½”-5 ½” VBR & ALSO IN ANNULAR BOP.ARRANGED TO PUMP BELOW 3-1/2”RAM. ARRANGEMENT TO SUBDUE THE WELL
+	TO CHANGE RAMS.
+	__________________________________________________________________________________________________________________________________
+	16.01.2020:BULL HEADED WITH HESITATION METHOD.TOTAL VOL PUMP-107 BBLS WITH 2500PSI.CLOSED BOP AND RUPTURE RDSCVWITH 3500 PSI.
+	ESTABLISHED DIRECT CIRC AND CHANGED OVER WELL VOL TO 17.8 PPG SOBM. C & C SOBM. FLOW CHECKED-OK. UNSET 7"PACKER. C&C WITH SOBM(OBSD
+	MAX TG: 1.44%).R/DOWN EXPRO CONTROL HEAD. OBSD BACK FLOW FROM TCP-DST STRING. M/UP CIRC ASSY. C & C WITH 17.8 PPG SOBM IS IP.OBSD
+	MAX TG: 3.1%, BG-0.6%.
+	__________________________________________________________________________________________________________________________________
+	17.01.2020:C&C SOBM.(BACKGROUND GAS: 0.6%.FLOW CHECKED–WELL STATIC.HELD PJSM. DISCUSSED & ISSUED SOP FOR LIVETCP GUNS POOH BY
+	HALIBURTON. R/DN CIRC ASSY. POOH TCP-DST ASSY WITH 3 ½” VA SUP TBG FROM 3835 M TO TO 128M (BHA).(DURING P/O FLOW CHECKED AT 1300M
+	–OK).CONT POOH, B/O & L/DN TCP-DST BHA FROM 128 M TO TO 100 M. FURTHER PULL OUT IS IN PROGRESS. - POOH CONTROL SPEED AS PER
+	HALIBURTON TCP.
+	__________________________________________________________________________________________________________________________________
+	18.01.2020:CONT POOH, B/O & L/DN TCP-DST BHA F/100 M TO 36M. HELD PJSM, RECORDED TEMPERATURE & CONTD P/O & L/DNTCP-DST ASSY FROM
+	36M TO SURFACE. OBSERVED TCP GUNS NOT FIRED. M/A & N/DN OUTER BARREL AND INNER BARREL. RIH ONE STAND OF 3 ½” DP WITH FOSV ON TOP
+	FOR SAFETY.CHANGED VBR (3 ½”-5 7/8”) PACKER & TOP SEAL, CHANGED UPPER PIPE RAM FROM 5” TO 5 ½”. CHANGING OF 13 5/8”ANNULAR BOP
+	ELEMENT IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	19.01.2020:UNSCREWED LOCK RING OF 13 5/8” ANNULAR BOP. REMOVED QUICK RELEASE TOP & SECURED. REMOVED 13 5/8”ANNULAR ELEMENT & DONUT.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	M/A TO INSTALL NEW 13 5/8” ANNULAR ELEMENT & DONUT IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	20.01.2020:INSTALLED NEW 13-5/8”ANNULAR PACKER ELEMENT & DONUT.TIGHTENED QUICK RELEASE TOP AND INSTALLED THRASHSEAL.TIGHTEN ADAPTOR
+	SPOOL. INSTALLED BELL NIPPLE SEAL. FUNCTION TESTED ANNULAR BOP. PR TESTED LPR 3 ½”FIXED RAM 300PSI/12000 PSI. VBR 3 ½”- 5 ½”@ 300
+	PSI/15000 PSI. ANNULAR @ 300 PSI/10000 PSI,UPR 5 ½”,300/12000PSI-OK.RIH 2-7/8"OPEN END TBG WITH 3 ½” & 5 ½” DP TO 3842M.C & C MUD
+	PRIOR CMT JOB IP.
+	__________________________________________________________________________________________________________________________________
+	21.01.2020:C&C MUD.SPOTTED 16 BBLS BASE OIL.OBSD INJECTIVTY @ 1BPM AT 2100PSI.C&C MUD.PUMPED 10 BBL BASE OIL,30BBL FRESH MUD,15 BBL
+	18PPG TUNED SPACER,23 BBL 19PPG CMT SLURRY & 3 BBL SPACER.DISPLACED WITH 205.5 BBL MUD.PO 12STDS 5 ½”DP.SQUEEZED 08BBL CMT SLURRY @
+	2300 PSI.MUD CIRC TO WASH STRING.PO 02 STDS 5 ½ DP.WELL UNDER  PR OF 2500PSI FOR 6HRS.B/O PRESSURE.OBSD 02BBL SQUEEZED.M/A TO POOH
+	OEDP IP.
+	__________________________________________________________________________________________________________________________________
+	22.01.2020:R/DN SURFACE CMT ASSY.POOH 2 7/8”OE TBG ON 3 ½” & 5 ½”DP FR 3435M TO SURFACE.M/UP 5-7/8"(RR) PDC BITWITH SLICK BHA & RIH
+	ON 3 ½” & 5 ½”DP UPTO 3437M. DRIFTED 3 1/2” DP STDS WITH 2” DRIFT.WASHED DN FR 3437M TO 3686M & TAGGED CEMENT AT 3686M WITH
+	16KIPS.C&C MUD. PR  TESTED CEMENT PLUG @1000 PSI-OK. DRILLED OUT CEMENT WITH 5-7/8"SLICK ASSY FR 3686M TO 3739M. FURTHER CMT DRLG
+	IS IP.
+	__________________________________________________________________________________________________________________________________
+	23.01.2020:CONT DRILLED OUT CMT WITH 5-7/8"SLICK ASSY FR 3739M TO 3810M.C&C MUD.R/UP SCHL W/LINE.M/UP & RIH GR-CCL TOOLS. UPTO
+	3635M.C/O DEPTH CORRELATION.POOH & L/DN W/L TOOLS.DRILLED OUT CMT FR 3810M TO 3848M (LOGGER’S DEPTH). C&C MUD. PR TESTED CMT PLUG @
+	1000 PSI-OK. POOH 5-7/8” SLICK ASSLY ON 3 ½” & 5 ½” DP FROM 3848M TO SURFACE. M/UP 5 7/8” RR TCR BIT WITH 7”SCRAPPER ASSLY IS IP.
+	__________________________________________________________________________________________________________________________________
+	24.01.2020:M/UP & RIH 5 7/8" BIT WITH TANDEM SCRAPPER ASSY UPTO 3848M. C&C MUD. POOH 5 7/8”BIT WITH TANDEMSCRAPER ASSY FROM 3848M
+	TO SURFACE. M/U & RIH  HALLIBURTON DST 7” PACKER ASSLY ON 3 ½” VA SUPERIOR TBG UPTO 545M. FURTHER RIH IS IP. DRIFTED ALL TBG STDS
+	WITH 2.5 DRIFT DURING RIH.
+	__________________________________________________________________________________________________________________________________
+	25.01.2020:CONT RIH HLB 7” DST PACKER ASSY ON 3 ½” VA SUPERIOR TBG FROM 545M TO 3844 M.R/UP FLOW HEAD.PR TESTEDFLOW HEAD @
+	8500PSI.OK.PUMPED & SPOTTED 10 BBL BASE OIL & 78.3 BBL SEA WATER @ 5750PSI (DIFFERENTIAL PRESSURE) IN STRING. SET 7” PACKER @
+	3742.44M. OPENED MASTER VALVE OF FLOW HEAD.OBSD STRING PRESSURE @ 6100PSI. PR TESTED PACKER @ 1500 PSI-OK. KEPT 200 PSI PRESSURE IN
+	ANN.P/UP & R/UP COFLEX HOSE IP.
+	__________________________________________________________________________________________________________________________________
+	26.01.2020:R/UP COFLEX HOSE.TESTED UPSTREAM LINES @8500PSI-OK.PRESSURISED ANN @200PSI.C/O INFLOW TEST BYBLEEDING STRING
+	PRESSURE(6450PSI)IN STAGES @600PSI UPTO 200PSI.OBSVD TBG PR BUILD UP & GOT TOTAL RETURN-28.7BBL.ANN PR HOLDING. INFLOW TEST-NOT
+	OK.RUPTURED RDSCV.REV OUT & COLLECTED REV OUT SAMPLES FURTHER TESTING OF OBJ-1 CALLED OFF. UNSET 7” HLB PACKER. BULL HEAD 5BBL.C&C
+	MUD. FLOW CHECK IP.
+	__________________________________________________________________________________________________________________________________
+	27.01.2020:CONTD FLOW CHECK.OK. R/DN FLOW HEAD, STIFF JOINT & SURFACE LINES.POOH HLB DST 7” PACKER ASSY ON 3 ½"VA SUPERIOR TBG FROM
+	3838M TO SURFACE. B/O & L/DN DST TOOLS, 7”HLB PACKER & 3 ½”MULE SHOE.RIH 2 7/8" OE TBG (402M) ON 3 ½” & 5 ½” DP UPTO 3845M. C&C MUD
+	PRIOR TO ISOLATION CEMENT SQUEEZE PLUG JOB OF OBJ-1 IS IP.
+	__________________________________________________________________________________________________________________________________
+	28.01.2020:C&C MUD.SPOTTED 17 BBLS BASE OIL.OBSD INJECTIVTY @ 1BPM AT 1400PSI.C&C MUD.PUMPED 10 BBL BASE OIL,30BBL FRESH MUD,15 BBL
+	18PPG SPACER,23 BBL 19PPG CMT SLURRY & 3 BBL SPACER.DISPLACED WITH 206BBL MUD. PO 10STDS 5 ½”DP.MUD CIRC TO DIRECT WASH STRING.PO
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	02 STDS.WELL KEPT UNDER  PR OF 4500PSI FOR 6HRS. B/OFF PRESSURE.OBSD 04BBL SQUEEZED.POOH 2 7/8”OE TBG ON 5 ½” & 3 ½”DP F/3487M TO
+	2235M. F/POOH IP.
+	__________________________________________________________________________________________________________________________________
+	29.01.2020:POOH 2 7/8”OE TBG WITH 5 ½” & 3 ½”DP F/2235M TO SURFACE.M/UP & RIH 5-7/8"SLICK ASSLY ON 3 ½” & 5-1/2DP UPTO 1060M.SLIP &
+	CUT 105 FT DRLG LINE. RIH 5 7/8”SLICK ASSY ON 5 ½"DP F/1060M TO 2298M.FUNCTION TESTED 13-5/8” BOP STACK.OK.RIH 5 7/8”SLICK ASSLY
+	F/2298M TO 3494M.W/DN F/3494M & TAGGED HARD CEMENT AT 3807M.C&C MUD.TESTED CMT PLUG @1500 PSI-OK.POOH 5 7/8” SLICK ASSLY F/3807M TO
+	2894M.F/POOH IS IP.
+	__________________________________________________________________________________________________________________________________
+	30.01.2020:POOH 5 7/8”SLICK ASSY ON 3 ½”& 5 ½”DP F/2894M TO SURFACE.RIH 2 7/8”OE TBG WITH 3 ½”&5 ½”DP UPTO 3805M.C&C MUD.C/O
+	ISOLATION CMT PLUG JOB OF OBJ-1 AS PER PLAN.PUMPED 30BBL FRESH SOBM,15 BBL 18PPG TUNED SPACER,23BBL 19PPG CMT SLURRY,3BBL
+	SPACER,FOLLOWED BY 30BBL FRESH MUD & DISPLACED WITH 171BBL MUD. POOH 08STDS F/3805 TO 3578M.PUMPED 5BBL MUD.POOH 2STDS.MUD CIRC TO
+	DIRECT WASH STRING IS IP.
+	__________________________________________________________________________________________________________________________________
+	31.01.2020:CONTD MUD CIRC TO DIRECT WASH STRING.POOH 2 STDS FROM 3521M TO 3464M.WELL KEPT UNDER PRESSURE @2000PSI FOR 06HR. B/OFF
+	RESSURE.POOH 2 7/8”OE TBG WITH 3 ½” & 5 ½”DP FROM 3464M TO SURFACE.M/UP 5 7/8”RR BIT WITH SLICK BHA & RIH ON 3 ½” & 5 ½” DP UPTO
+	3465M.FURTHER RIH IS IP.
+	__________________________________________________________________________________________________________________________________
+	01.02.2020:CONT RIH 5 7/8”SLICK ASSLY ON 3 ½”&5 ½”DP BY W/DN F/3465M & TAGGED CMT AT 3546M. TESTED CEMENT PLUG@1000PSI-OK.DRILLED
+	OUT CMT F/3546M TO 3711M.C&C MUD.PR TESTED CMT PLUG AT 1000PSI-OK.POOH 5 7/8" SLICK ASSY ON 3 ½”&5 ½”DP F/3711M TO SURFACE.M/UP &
+	RIH 5-7/8"TCR BIT(RR) WITH TANDEM SCRAPPER ASSY ON 3 ½” & 5 ½”DP UPTO 3711 M. C&C MUD PRIOR TO CHANGE OVER TO WARP TESTING FLUID IS
+	IP.
+	__________________________________________________________________________________________________________________________________
+	02.02.2020:CONTD C&C MUD.CHANGED OVER TO 16.2 PPG WARP TESTING FLUID.CLEANED MUD CHANNEL.C&C WITH WARP TESTINGFLUID. POOH 5-7/8"
+	BIT WITH TANDEM SCRAPPER (7" & 9- 5/8") ASSY ON 3 ½” & 5 ½”DP FROM 3711M TO SURFACE.P/UP, M/UP & RIH HLS TCP- DST BHA (4-1/2”, 5
+	SPF HNS GUNS,2 7/8” TBG,7” PACKER,GAUGE CARRIER RDCV & STV) UPTO 108M.M/UP 1 STD OF 3 ½” TUBING.M/UP TEST ASSY PRIOR TO PR TEST
+	TCP-DST BHA IS IP.
+	__________________________________________________________________________________________________________________________________
+	03.02.2020:PR TESTED  TCP-DST BHA (108M) @11000 PSI.OK. RIH TCP-DST BHA FROM 108M TO 126M (UP TO RDSCV AND BTMRA SUB) & 01 STD OF
+	3-1/2” TUBING FROM 126M TO 156M.TESTED BHA @ 11000PSI AT 126M & 156M.OK.RIH DST- TCP BHA ON 3 ½” VA SUPERIOR TBG F/156M TO
+	1330M.TESTED STRING @ 11000 PSI.OK.RIH TCP-DST STRING FROM 1330M TO 2020M.FILLED UP DIESEL EVERY 05TH STD & DRIFTED TBG WITH 2
+	½”DRIFT. FURTHER RIH IS IP.
+	__________________________________________________________________________________________________________________________________
+	04.02.2020:CONT RIH TCP-DST ASSY WITH 3 1/2” VA SUP (12.70PPF, L-80) TBG FROM 2020 M TO 2508M. PRESSURE TESTEDTCP-DST STRING @
+	11000 PSI. OK. CONT RIH TCP-DST ASSY TO 3686M.PRESSURE TESTED TCP-DST STRING @ 1100 PSI.OK. R/UP SCHL W/LINE.C/OUT DEPTH
+	CORRELATION.SPACED OUT TCP-DST STRING.TESTED STRING @ 1100PSI -OK. R/UP EXPRO CONTROL HEAD & KILL LINES TO C/HEAD. TESTED
+	@11000PSI-OK. M/A TO SET PACKER IS IP.
+	__________________________________________________________________________________________________________________________________
+	05.02.2020:SET PACKER AT 3614.67M.CONNECTED FLOW LINE. TESTED UP STREAM LINES @ 11000 PSI, OK. OPENED STV WITH1300PSI IN
+	ANNULUS.OBSERVED WELL- STATIC. R/UP SCHL W/LINE AND RIH DUMMY TOOL WITH CCL UPTO 1800M. OBSD 5.2BBL GAIN.P/O W/LINE TO
+	SURFACE.MONITOR WELL ON CLOSED CHOKE.PR.BUILD UPTO 1000PSI &GRADUALLY REDUCED TO '0'PSI.CHANGED WIRE LINE DRUM. R/UP SCHL
+	W/LINE.OBSD PR.BUILD UPTO 5300PSI AGAIN. WUO.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	__________________________________________________________________________________________________________________________________
+	06.02.2020:MONITOR WELL ON CLOSED CHOKE. STHP: 5400 PSI.R/DN SCHL. W/LINE PCE. B/OFF ANNULUS PR. & CLOSED STV.CYCLE OMNI
+	CIRCULATING MODE.REVERSE OUT 1 1/2 TIMES STRING VOLUME WITH 16.2 PPG WARP AND KNOCKED OUT STRING VOLUME. OBSD DIESEL,FOLLOWED BY
+	GAS.C & C TO HOMOGENEOUS WARP.CHANGED OVER FROM 16.2PPG WARP TO 17.8PPG SOBM. UNSEAT 7"PACKER. DISCONNECTED COFLEX HOSE. C&C WITH
+	SOBM IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	07.02.2020:C & C SOBM. FLOW CHECKED, WELL STATIC. PUMP SLUG. B/OFF  & L/DN COFLEX HOSE, CONTROL HEAD AND STIFFJOINTS. POOH DST/TCP
+	BHA ON 3 ½" VA SUPERIOR TBG FROM 3687M TO 127 M. B/OFF & L/DOWN 3 SLIP JOINTS & X/OVERS. CONT POOH, B/O & L/DN TCP-DST BHA FROM 127
+	M TO 123 M. FURTHER B/OFF & L/DOWN TCP-DST BHA IN PROGRESS
+	__________________________________________________________________________________________________________________________________
+	08.02.2020:CONT POOH, B/O & L/DN TCP-DST BHA FROM 123 M TO SURFACE [GUNS NOT FIRED]. R/UP 20" CASG HANDLINGEQUIPMENTS, B/O AND
+	SERVICED 20" MLS. M/UP 5-7/8"(RR) PDC BIT WITH SLICK BHA & RIH UP TO 3711 M. WASH DOWN LAST STD. CIR MUD FOR BOTTOM UP. OBSD 16.2%
+	GAS MAX. WASH DOWN FROM 3711 M TO 3778 M. OBSD OBSD HARD CEMENT FROM 3728M-3740M. TG MAX 14.4%. FURTHER WASHING DOWN IS IN
+	PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	09.02.2020:WASHED DOWN FROM 3778 M TO 3795M. OBSERVED TAKING 16 KIPS WT. C & C MUD. OBSERVED 0.3% GAS PRIOR TOP/O. FLOW CHECKED
+	WELL STATIC, POOH 5-7/8” PDC BIT WITH SLICK BHA FROM 3795M TO SURFACE. RIH 2 7/8” OE TBG WITH 3 ½” & 5 ½” DP TO 3198 M, FURTHER RIH
+	IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	10.02.2020:CONT. RIH 2-7/8” OE TBG WITH 3 ½” & 5 ½” DP FROM 3198M TO 3792M. C & C MUD.PJSM,PUMPED 10 BBLS BASEOIL, 15 BBLS BARITE
+	PILL OF 19 PPG, VIS: 120SEC, 2 BBLS BASE OIL.DISPLACED WITH 206 BBLS SOBM.P/O 5 STANDS UP T0 3642M.C & C MUD. P/O 2-7/8” OE TBG
+	WITH 3 ½” & 5 ½” DP F/3642M TO SURFACE. M/UP 5 7/8” PDC RR BIT WITH SLICK BHA & RIH UP TO 1019 M.FURTHER RIH IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	11.02.2020:CONT. RIH 5-7/8”PDC BIT WITH SLICK BHA F/1019M TO 3209M. SLIP AND CUT 105 FT DRILL LINE. CALLIBRATEDBLOCK. CONT. RIH
+	5-7/8” PDC BIT WITH SLICK BHA F/3209M TO 3695M (LOGGERS DEPTH).WASH DOWN F/3695M TO 3770M (LOGGERS DEPTH).C & C MUD PRIOR TO P/O.
+	OBVED BOTTOM UP M.WT 18.1 PPG SOBM  & TG 0.02%. FLOW CHECKED-STATIC. P/O 5-7/8”SLICK ASSY F/3770M TO 1940 M.FURTHER P/O IS IN
+	PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	12.02.2020:P/O 5-7/8” SLICK ASSY FROM 1940 M TO SURFACE. RIH 2 7/8" OE TUBING WITH 3 ½’’DP AND 5 ½’’ DP FROMSURFACE TO 3742M.
+	WASHED DOWN F/3742M TO 3785M,(LOGGERS DEPTH). C & C MUD PRIOR TO CMT PLUG JOB. (OBSD B/UP M.WT: 18.1 PPG & TG-0.15 %). FLOW CHECKED
+	WELL STATIC. R/UP SURFACE CMT LINE & TESTED @ 5000PSI-OK. PUMPING 30BBL OF FRESH SOBM IS I/P.
+	__________________________________________________________________________________________________________________________________
+	13.02.2020:CARRIED OUT CEMENT PLUG JOB AS PER PLAN (PUMPED 23 BBLS 19 PPG CEMENT SLURRY).POOH 7 STANDS F/3785MTO 3577M. DIRECT
+	WASH. POOH 02 STAND F/3577M TO 3520M.PRESSURISED WELL TO 3500PSI WITH CEMENT UNIT. WELL KEPT UNDER PRESSURE 3500PSI FOR 12 HRS.
+	B/OFF PRESSURE, GOT RETURN 8.5 BBLS. OPENED BOP & R/DN PUMPING ASSY. P/O 2-7/8" OE TBG WITH 5-1/2" & 3-1/2" DP FROM 3520M TO 2500
+	M. FURTHER P/O IS IP.
+	__________________________________________________________________________________________________________________________________
+	14.02.2020:CONT. P/O 2-7/8" OE TBG WITH 5-1/2" & 3-1/2" DP STDS FROM 2500M TO SURFACE. P/UP & B/O 13 3/8" MLS,SERVICED THE SAME &
+	L/DN. M/UP BOP TEST ASSY. PRESSURE TESTED LPR 3 ½”, UIBOP, BLIND/SHEAR RAMS,VBR 3 ½”-5 ½”, UPR 5-1/2”, HCR VALVES,FOSV,LIBOP TO 300
+	PSI/12000PSI. ANNULAR AT 300 PSI/ 7000 PSI-OK.  M/UP 5-7/8" BIT. R/I 5-7/8" SLICK ASSY WITH 3-1/2" & 5-1/2" DP SURFACE TO 2014 M.
+	FRIP.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	__________________________________________________________________________________________________________________________________
+	15.02.2020:CONTD R/I 5-7/8"SLICK ASSY WITH 3-1/2" & 5-1/2" DP FROM 2014 M TO 3187 M. OBSVED TAKING WT.CLEAREDCEMENT F/3187M TO
+	3238M. P/O TO 3187 M, TO CLEARED CEMENT IN 9 5/8” CSG. C&C MUD. M/WHILE RECEIVED MESSAGE FROM BASE TO R/I WITH 8 ½” BIT TO CLEAR
+	CMT IN 9 5/8” CSG.P/O 5-7/8”SLICK ASSY TO SURFACE. M/UP 8-1/2" RR BIT & R/I WITH SLICK BHA TO 2415M.OBSD TAKING WEIGHT.CLEARED CMT
+	TO 2509M.FURTHER IP.
+	__________________________________________________________________________________________________________________________________
+	16.02.2020:CLEARED CMT SCALING INSIDE 9 5/8’’ CSG FROM 2509 M TO 3223 M (H/TOP). C & C MUD PRIOR TO P/O FOR R/I5 7/8” SLICK ASSLY.
+	P/O 8-1/2" SLICK ASSY FROM 3223M TO SURFACE. M/UP 5-7/8" RR PDC BIT & R/I WITH SLICK ASSY ON 3-1/2" & 5-1/2" DP TO 2128M. FURTHER
+	R/I IS IP.
+	__________________________________________________________________________________________________________________________________
+	17.02.2020:CONTD. RIH 5-7/8" SLICK ASSY ON 3-1/2" & 5-1/2" DP UPTO 3223M. WASH DOWN FROM 3223M TO 3557M.DRILLEDCEMENT FROM 3557 M
+	TO 3716M (LOGGERS DEPTH). TAGGED WITH 16KIPS. C & C MUD PRIOR TO P/O FOR SCRAPPER TRIP. TESTED CEMENT PLUG @1000PSI-OK. FLOW
+	CHECKED- STATIC. P/O 5-7/8”SLICK ASSY FROM 3716M TO 1957M FURTHER P/O IS IN PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	18.02.2020:CONTD POOH 5-7/8” SLICK ASSY FROM 1957M TO SURFACE. M/UP 5-7/8” TCR (RR) BIT WITH TANDEM SCRAPPERASSLY (7” & 9
+	5/8”SCRAPPERS) & RIH UPTO 3716M (LOGGERS DEPTH). REPEAT SCRAPPED FROM 3550M TO 3716M DURING RIH. WASHED DN LAST STAND. C&C MUD
+	@300GPM-2750PSI (DURING BTM-UP, OBSD MAX TG -0.08 %.).FLOW CHECKED- NEGATIVE. POOH TANDEM SCRAPPER ASSLY FR 3716M TO 1126M. FURTHER
+	POOH IS IP.
+	__________________________________________________________________________________________________________________________________
+	19.02.2020:CONTD POOH TANDEM SCRAPPER ASSLY (7” & 9 5/8”) FROM 1126M TO SURFACE. R/UP SCHL W/LINE. ASSEMBLED,ARMED & RIH 7” BRIDGE
+	PLUG WITH CPST TOOL STRING TO 3711M. CORRELATED DEPTH AND SET 7” BRIDGE PLUG @ 3711.5M (LOGGER’S DEPTH).POOH CPST TOOL TO SURFACE &
+	L/DN.R/DN SCHL W/L.RIH DST- PACKER(7”) ASSY ON 3 ½” VA SUPERIOR TBG (L-80, 12.7PPF) STDS UPTO 1918M. FURTHER RIH IS IP. DRIFTED TBG
+	WITH 2.5"DRIFT.
+	__________________________________________________________________________________________________________________________________
+	20.02.2020:CONTD RIH DST- PACKER(7”) ASSY ON 3 ½”TBG F/1918 TO 3698M.R/UP STIFF JTS & FLOW HEAD & RIH TO 3705M.PR TESTED F/HEAD
+	@9200PSI-OK.DISPLACED STRING VOLUME OF SOBM WITH S/W.SET 7”DST PACKER @3613M.TESTED PACKER @ 1500 PSI-OK.KEPT ANN PR @300 PSI &
+	BLED OFF STRING PRESSURE IN STAGES @600PSI FR 6400PSI TO 0 PSI ( RETURN VOL S/W 1.68BBL).OBSD NO ACTIVITY. INFLOW TEST OK. M/A TO
+	RUPTURE RDSCV IP.
+	__________________________________________________________________________________________________________________________________
+	21.02.2020:RUPTURED RDSCV AND REVERSED OUT STRING VOLUME WITH SOBM. R/DN COFLEX HOSE. UN-SEATED 7”DST PACKER.C&C MUD. R/DN FLOW
+	HEAD, KILL LINE AND STIFF JTS. POOH DST- PACKER (7”) ASSY WITH 3 ½” VA SUPERIOR TBG (L-80, 12.7PPF) STDS FROM 3698M TO SURFACE. B/O
+	& L/DN 7”PACKER, SAFETY JTS, JAR, RDSCV, 3 ½”PUP JT & MULE SHOE. RIH 3-1/2"& 5-1/2"OEDP STDS UPTO 921M. FURTHER RIH IS IP.
+	__________________________________________________________________________________________________________________________________
+	22.02.2020:CONTD RIH 3-1/2" & 5-1/2" OEDP STDS FROM 921M TO 3710M(LOGGERS DEPTH).C&C MUD. CHANGED OVER WELL VOLTO WARP TESTING
+	FLUID.CLEANED FLOW LINE & MUD CHANNEL.C&C WITH WARP TESTING FLUID.OBSD WELL-STATIC. POOH 3-1/2" & 5-1/2" OEDP STDS FROM 3710M TO
+	863M. SLIP AND CUT 105' DRILL LINE. CALIBRATION OF T/BLOCK IS IP.
+	__________________________________________________________________________________________________________________________________
+	23.02.2020:FUNCTION TESTED 13 5/8” BOP STACK.OK.POOH 3-1/2" & 5-1/2"OEDP STDS FROM 863M TO SURFACE.M/UP & RIHTCP-DST BHA UPTO
+	118M.PR TESTED TCP-DST BHA @11000 PSI-OK.CONT M/UP & RIH TCP-DST BHA WITH 1 STD OF 3½” TBG FR 118M TO 166M.PR TESTED DST BHA
+	@11000PSI-OK.RIH TCP-DST ASSY ON 3-1/2"VA SUP TBG(12.7PPF L-80)STDS F/166M TO 1260M.F/RIH IP.DRIFTED 3 1/2"TBG WITH 2 ½” DRIFT &
+	FILLED DIESEL EVERY 5TH STD.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	__________________________________________________________________________________________________________________________________
+	24.02.2020:CONT RIH TCP-DST ASSY ON 3-1/2”VA SUP TBG STDS F/1260M TO 3687M.DRIFTED ALL 3½” TBG WITH 2½” DRIFT &FILLED DIESEL EVERY
+	5TH STD.DURING RIH, PR TESTED TCP-DST STRING AT 1339M, 2517M & 3687M @ 11000 PSI -OK. R/UP SCHL W/L. M/UP GR-CCL TOOLS & SURFACE
+	CHECKED-OK. RIH GR-CCL TOOLS TO 3570M.RECORDING OF GR-CCL LOG FOR DEPTH CORRELATION IS IP.
+	__________________________________________________________________________________________________________________________________
+	25.02.2020:RECORDED GR-CCL LOG FOR DEPTH CORRELATION.SPACED OUT TCP-DST STRING.TESTED STRING @11000 PSI-OK.R/UPC/HEAD & STIFF
+	JTS.PR TESTED C/H WITH TCP-DST STRING @11000 PSI-OK.SET 7”DST PACKER @3605.15M.R/UP R/UP CO-FLEX HOSE.TESTED UPSTREAM LINES @ 11000
+	PSI-OK. R/UP SCHL W/L WHE & CCL TOOL.PR TESTED WHE @ 7200PSI.OPENED STV.KEPT STRING PR @5700PSI.RIH CCL TOOL TO 3620M.CONFIRMED STV
+	OPEN.L/DN CCL TOOL IP
+	__________________________________________________________________________________________________________________________________
+	26.02.2020:R/DN SCHL W/L CCL TOOL & WHE.KEPT TCP-DST STRING @4800PSI.DROPPED BAR AND PERFORATED OBJ-II(3701M-3697.5M &
+	3659M-3656M)@0850 HR.OPENED WELL THRU 1/8”CHOKE.WELL KNOCKED OUT DIESEL,SUMP WARP FOLLOWED BY GAS.FTHP-5000PSI,FTHT-150°F.C/O FLOW
+	MEASUREMENT.SPOT READINGS:QGAS-3578M3/D;QLIQUID-1147BPD.WELL OPENED THRU 10/64”CHOKE TO BURNER,FLOWING WATER WITH
+	GAS.FTHP-5100PSI,FTHT-203°F.FURTHER WUO.
+	__________________________________________________________________________________________________________________________________
+	27.02.2020:CONTD WELL OPENED THRU 10/64”CHOKE TO BURNER.CHANGED CHOKE TO 8/64”.WELL FLOWED WATER WITH
+	GAS.FTHP-5400PSI,FTHT-204°F.TESTING OF OBJ-II CALLED OFF.RUPTURED RDSCV.REV OUT WITH 16.2PPG OB WARP. COLLECTED R/OUT
+	SAMPLES.RUPTURED RDCV.BULLHEADED 03BBLS @1000PSI.CHANGED OVER TO 17.8PPG SOBM.UNSET 7"PACKER.C&C MUD.R/DN C/HEAD & STIFF JTS.R/UP
+	TUBING HANDLING TOOLS PRIOR TO POOH TCP-DST STRING IP.
+	__________________________________________________________________________________________________________________________________
+	28.02.2020:R/UP TUBING HANDLING EQUIPMENTS. POOH TCP-DST ASSLY ON 3-1/2" VA SUP TBG (12.70 PPF, L-80)FROM 3695MTO 1310M BY B/O &
+	L/DN 3 ½”TBG SINGLE BY SINGLE (TOTAL 248 JTS). B/O & L/DN 3 X/O, RA-SUB,3 SLIP JTS & 3 X/O FROM 1310M TO 1289M. POOH TCP-DST ASSY
+	ON 3-1/2" VA SUP TBG (12.70 PPF, L-80) FROM 1289M TO 799M BY B/O & L/DN 3 ½”TBG IN SINGLES (TOTAL 300 SGLS). FURTHER POOH & L/DN
+	3-1/2"TBG IS IP.
+	__________________________________________________________________________________________________________________________________
+	29.02.2020:CONTD POOH TCP-DST ASSLY ON 3-1/2" VA SUP TBG (12.70 PPF, L-80) BY B/O & L/DN SINGLE BY SINGLE FROM799 M TO 137 M
+	(TOTAL-368 SGLS L/DN).POOH TCP-DST BHA FR 137M TO SURFACE B/O & L/DN DST TOOLS & HNS GUNS. B/O & L/DN 17 STDS OF 3-1/2"VA SUP TBG
+	FROM DERRICK IN SINGLES. R/UP 2-7/8"TBG HANDLING EQUIPMENTS & RIH 2-7/8”OE TBG STDS UPTO 402M. FURTHER RIH IS IP.
+	__________________________________________________________________________________________________________________________________
+	01.03.2020:RIH 2-7/8”OE TBG ON 3 ½” & 5 ½”DP F/402M TO 3710M.C&C MUD.SPOTTED 150M BASE OIL. POOH F/3710-3540M.OBSD INJECTIVITY @1
+	BPM AT1730 PSI.RIH F/3540-3710M.C&C MUD.PUMPED 30BBL 18PPG SPACER,23BBL OF 19PPG CMT SLURRY,6BBL SPACER & DISPLACED BY 186BBL
+	MUD.POOH 8 STD F/3710M TO 3482M.SQUEEZED 2BBL CMT SLURRY @3500PSI.OBSVD STRING STUCK. RELEASED STRING.MUD CIRC TO DIRECT WASH
+	STRING IS IP.
+	__________________________________________________________________________________________________________________________________
+	02.03.2020:CONTD MUD CIRC TO DIRECT WASH STRING.POOH 10 STDS F/3482M TO 3196M.C&C MUD.WELL UNDER SQUEEZEPRESSURE @2000 PSI FOR 2
+	HRS.SQUEEZED 02 BBL NET. POOH 2 7/8”OE TBG WITH 5 ½” AND 3 ½” DP FROM 3196M TO SURFACE.OBSD 344M (36 JTS OF 2-7/8”TBG) STRING LEFT
+	IN HOLE. M/UP 8-1/2”RR (TCR) BIT WITH SLICK BHA & RIH ON 5 ½”DP UPTO 3131M(TAGGED FISH @ 3131M).C&C MUD IP.
+	__________________________________________________________________________________________________________________________________
+	03.03.2020:C & C  17.8 PPG SOBM. POOH 8 ½” SLICK BHA WITH 5 ½” DP FROM 3131 M TO SURFACE. P/UP & M/UP 8 ¼” FLATMILL BHA ASSY AND
+	RIH TO 178 M. CONTD RIH 8 ¼” FLAT MILL BHA ASSY WITH 5 ½” DP FROM 178 M TO 3131M & TAGGED FISH TOP AT 3131M. SET PARAMETER & MILL
+	DOWN (2-7/8"TUBING) FISH FROM 3131M TO 3132.30 M. C & C MUD. POOH 8-1/4”FLAT MILL ASSY IS IN PROGRESS.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	__________________________________________________________________________________________________________________________________
+	04.03.2020:POOH 8 ¼” FLAT MILL BHA ASSY WITH 5 ½”DP FROM 3132.30 M TO SURFACE. P/UP & M/UP 5 ¾ OVERSHOT & 6 ¼”FISHING JAR.R/I WITH
+	5 ½”DP TO 3132.30M & TAGGED FISH TOP. C & C WITH 17.8PPG SOBM PRIOR TO FISHING. ENGAGED FISH. CONFIRMED WITH PRESSURE SHOOT-UP AND
+	20K OVER PULL.R/UP SCHL WIRE LINE & RIH 2-1/8” DUMMY TO 3143M. OBSD HELD UP. TRIED 5 TIMES, NO SUCCESS. P/O STRING UPTO 1800 M.
+	FURTHER POOH IS IP.
+	__________________________________________________________________________________________________________________________________
+	05.03.2020:P/O SCHL WIRE LINE TOOL TO SURFACE & R/DN.TOOL NOT ABLE TO GO BELOW 3143M. SUSPECTED CMT FILL INSIDETBG. WORKED ON
+	STRING TO RELEASE THE SAME. NO SUCCESS. ATTEMPTED TO MECHANICALLY BACK OFF 2 7/8” TBG STRING. NO SUCCESS.SUSPECTED CMT IN TBG
+	ANNULUS ABOVE HANGER TOP.DECIDED TO DISENGAGE FISH. RELEASED 5 ¾” OVERSHOT. C & C SOBM. P/O 5 ¾” OVER SHOT TO SURFACE. R/I 3-1/2"&
+	5-1/2"OEDP UPTO 3000 M.FRIP.
+	__________________________________________________________________________________________________________________________________
+	06.03.2020:CONTD RIH 3-1/2" & 5-1/2" OEDP FROM 3000 M TO 3130 M. C & C SOBM PRIOR TO CMT PLUG JOB.PJSM, PUMPED30 BBLS FRESH
+	SOBM.R/UP TEST ASSY AND TESTED CMT LINES TO 4000 PSI-OK. CARRIED OUT CEMENT PLUG JOB AS PER PLAN. POOH 9 STDS OF 5 ½” DP TO 2874
+	M.DIRECT CIRC ONE CYLCE. FURTHER POOH 2 STDS TO 2817 M. KEPT WELL UNDER SQUEEZE PRESS OF 3000 PSI FOR 8 HRS.B/OFF PR. P/O
+	5-1/2"OEDP F/2817M TO 394M. FPOIP.
+	__________________________________________________________________________________________________________________________________
+	07.03.2020:P/O AND L/DN 3-1/2” DP STDS IN 42 SGLS F/394 M TO SURFACE. RIH 4 STDS OF 4-3/4” DC & 2STDS OF 3-1/2”HWDP AND L/DN SAME
+	IN SGLS. M/UP 8 ½” (TCR-117) RR BIT AND RIH WITH SLICK BHA UP TO 2938M & TAGGED CMT AT 2938M WITH 16K WEIGHT.C & C MUD. TESTED
+	CEMENT PLUG @ 1000PSI-OK. P/O 8-1/2" ASSLY ON 5-1/2" DP STDS F/2938M TO 601M. L/DN 30 SGLS OF 5-1/2"DP, 11SGLS OF 5-1/2" HWDP TO
+	214M. FPOIP.
+	__________________________________________________________________________________________________________________________________
+	08.03.2020:CONTD P/O 8-1/2” SLICK BHA F/214M TO SURFACE. L/DN 15 SNGLS OF 5-1/2” HWDP. M/UP 8-1/2” RR TCR BITWITH 9-5/8”SCRAPPER.
+	R/I 9-5/8”SCRAPPER BHA F/178 M TO 2938 M.(TOP OF CMT PLUG). C & C 17.8 PPG SOBM POOH 9-5/8” SCRAPPER BHA TO SURFACE. R/UP SCHL
+	W/LINE. RIH WITH 9-5/8" BRIDGE PLUG & AT SET AT 2941M (LOGGER’S DEPTH).POOH SCHL W/LINE. R/I 3-1/2" OEDP STDS UP TO 345M. FRIP
+	PRIOR TO CMT PLUG JOB.
+	__________________________________________________________________________________________________________________________________
+	09.03.2020:CONTD RIH 3-1/2" & 5-1/2" OEDP F/345 M TO 1000 M.SLIP AND CUT 105 FT DRILL LINE AND CALIBRATED BLOCKCONTD RIH OEDP TO
+	2936 M. C& C 17.8 PPG SOBM.R/UP TEST ASSY AND TESED CMT LINES TO 4000 PSI-OK.C/OUT CMT PLUG JOB AS PER PLAN.P/O 9 STDS OF 5 ½” DP
+	F/2936 M TO 2679M. DIRECT CIRC 1 CYLCE. P/O 02STDS. WELL KEPT UNDER SQUEEZE PR. OF 3000 PSI FOR 4 HRS. BLEED-OFF PR. P/O 5-1/2"OEDP
+	F/2622M. FPOIP.
+	__________________________________________________________________________________________________________________________________
+	10.03.2020:CONT POOH OEDP FROM 773 M TO SURFACE.R/I & L/DN 4 STDS OF 2 7/8” TBG & 2 STDS OF 6 ½”” DC IN SGLS.M/UP 8 ½” (TCR-117) RR
+	BIT AND RIH WITH SLICK BHA UP TO 2758M. TAGGED CEMENT AT 2758 M WITH 16K WT. C & C MUD. TESTED CEMENT PLUG @ 1000PSI-OK. CHANGED
+	OVER TO WBM OF 9.5 PPG. C & C MUD. FLOW CHECKED- WELL STATIC. P/O 8 ½” BIT WITH SLICK BHA F/2758 M TO 1569M. P/O & L/DN 26 SGLS OF
+	5-1/2”DP. FPOIP.
+	__________________________________________________________________________________________________________________________________
+	11.03.2020:CONT P/O 8 ½”SLICK BHA TO SURFACE,L/DN 147 SGLS OF 5-1/2” DP.RIH WITH 3-1/2” & 5-1/2”OEDP UPTO 1600MSPOTTED 100M HI VIS.
+	P/O UP TO 1500 M. C & C WITH 9.5 PPG MUD. R/UP SURFACE LINE & TESTED @ 3000 PSI OK. CARRIED OUT MIDDLE PLUG JOB AS PER PLAN. P/O
+	10STDS F/1500M TO 1219M. DIRECT WASH.POOH OEDP 5 ½” & 3 ½” TO SURFACE, L/DOWN 36 SGLS OF 3 ½” DP. M/UP 8 ½” BIT WITH SLICK BHA &
+	RIH UP TO 1219M. FRIP.
+	__________________________________________________________________________________________________________________________________
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+				       OIL AND NATURAL GAS CORPORATION LTD
+						          PROJECT( ASSET/BASIN):  XXX
+					WELL PROGRESS  REPORT : FROM   TO
+		_____________________________________________________________________________________
+	12.03.2020:W/DN TO 1362 M & TAG CMT TOP WITH 12 KIPS. C & C MUD. TESTED CMT PLUG @ 1000 PSI-OK. POOH 8 ½” SLICKBHA TO SURFACE, L/DN
+	105 SNLS OF 5 1/2"D/P. M/W FUNCTION TESTED 13 5/8"BOP-OK. R/UP SCHL W/LINE. PERFORATED THE INTERVAL 479.5M-480.5M. ESTAB CIRC THRU
+	“A” & “B” SECTION. RIH WITH OEDP TO 585M. C&C MUD. SPOTTED 100M HI-VIS PIL. P/O TO 485M. CMT PLUG/SQUZZE JOB AS PER PLAN IS IN
+	PROGRESS.
+	__________________________________________________________________________________________________________________________________
+	13.03.2020:P/O 9 STDS OF 5-1/2”DP F/485 M TO 229 M.DIRECT WASH.CARRIED OUT CMT PLUG & SQUZZE JOB AS PER PLAN.KEPT WELL UNDER
+	SQUEEZE PR WITH 400 PSI FOR 6 HRS.B/OFF PR. WOC. M/W POOH OEDP TO SURFACE,L/DN 09SGL OF 3 1/2" D/P. R/I WITH 8 1/2" TCR BIT & TAG
+	CMT AT 400M WITH 12 KIPS.C & C MUD. TESTED CMT PLUG @ @ 1000 PSI-OK. P/O 8 1/2" BIT FROM 400M TO 20M. L/DN EXTERA STDS IN
+	SINGLES.FURTHER L/DOWN BHA IS IP
+	__________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
